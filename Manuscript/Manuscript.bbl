@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{mackay2003information}
 David JC~Mac Kay.
@@ -27,5 +27,33 @@ Per Block, Marion Hoffman, Isabel~J Raabe, Jennifer~Beam Dowd, Charles Rahal,
 \newblock Social network-based distancing strategies to flatten the covid-19
   curve in a post-lockdown world.
 \newblock {\em Nature Human Behaviour}, pages 1--9, 2020.
+
+\bibitem{github-protezionecivile}
+Protezione Civile.
+\newblock \url{https://github.com/pcm-dpc/COVID-19}.
+
+\bibitem{ISTAT}
+Istituto nazionale~di Statistica~(ISTAT).
+\newblock
+  \url{https://www.istat.it/it/dati-analisi-e-prodotti/banche-dati/statbase}.
+
+\bibitem{kraemer2020effect}
+Moritz~UG Kraemer, Chia-Hung Yang, Bernardo Gutierrez, Chieh-Hsi Wu, Brennan
+  Klein, David~M Pigott, Louis Du~Plessis, Nuno~R Faria, Ruoran Li, William~P
+  Hanage, John~S. Brownstein, Maylis Layan, Alessandro Vespignani, Huaiyu Tian,
+  Christopher Dye, Oliver~G. Pybus, and Samuel~V. Scarpino.
+\newblock The effect of human mobility and control measures on the covid-19
+  epidemic in china.
+\newblock {\em Science}, 368(6490):493--497, 2020.
+
+\bibitem{lloyd2001viruses}
+Alun~L Lloyd and Robert~M May.
+\newblock How viruses spread among computers and people.
+\newblock {\em Science}, 292(5520):1316--1317, 2001.
+
+\bibitem{MEF}
+Ministero dell'Economia e~delle Finanze.
+\newblock
+  \url{https://www.idealista.it/news/finanza/economia/2019/04/02/130615-la-mappa-del-reddito-pro-capite-nelle-province-italiane}.
 
 \end{thebibliography}
