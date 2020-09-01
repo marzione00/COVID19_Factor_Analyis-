@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  27 AUG 2020 11:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  1 SEP 2020 11:20
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -255,6 +255,64 @@ LaTeX Font Info:    Overwriting symbol font `TC' in version `bold'
 (Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 25.
 LaTeX Font Info:    Redeclaring math symbol \dagger on input line 47.
 LaTeX Font Info:    Redeclaring math symbol \ddagger on input line 48.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip67
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen145
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count184
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count185
+\leftroot@=\count186
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count187
+\DOTSCASE@=\count188
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count189
+\c@MaxMatrixCols=\count190
+\dotsspace@=\muskip17
+\c@parentequation=\count191
+\dspbrk@lvl=\count192
+\tag@help=\toks19
+\row@=\count193
+\column@=\count194
+\maxfields@=\count195
+\andhelp@=\toks20
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks21
+\multlinegap=\skip68
+\multlinetaggap=\skip69
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 ) (structure.tex
 ("C:\Program Files\MiKTeX 2.9\tex/latex/classicthesis\classicthesis.sty"
 Package: classicthesis 2018/06/03 v4.6 Typographic style for a classic-looking 
@@ -327,19 +385,19 @@ File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.sty"
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks18
-\MT@count=\count184
+\MT@toks=\toks23
+\MT@count=\count196
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen145
+\MT@outer@kern=\dimen154
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count185
+\MT@listname@count=\count197
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype-pdftex.def"
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip67
+\MT@outer@space=\skip70
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -369,23 +427,23 @@ Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen146
-\lightrulewidth=\dimen147
-\cmidrulewidth=\dimen148
-\belowrulesep=\dimen149
-\belowbottomsep=\dimen150
-\aboverulesep=\dimen151
-\abovetopsep=\dimen152
-\cmidrulesep=\dimen153
-\cmidrulekern=\dimen154
-\defaultaddspace=\dimen155
-\@cmidla=\count186
-\@cmidlb=\count187
-\@aboverulesep=\dimen156
-\@belowrulesep=\dimen157
-\@thisruleclass=\count188
-\@lastruleclass=\count189
-\@thisrulewidth=\dimen158
+\heavyrulewidth=\dimen155
+\lightrulewidth=\dimen156
+\cmidrulewidth=\dimen157
+\belowrulesep=\dimen158
+\belowbottomsep=\dimen159
+\aboverulesep=\dimen160
+\abovetopsep=\dimen161
+\cmidrulesep=\dimen162
+\cmidrulekern=\dimen163
+\defaultaddspace=\dimen164
+\@cmidla=\count198
+\@cmidlb=\count199
+\@aboverulesep=\dimen165
+\@belowrulesep=\dimen166
+\@thisruleclass=\count266
+\@lastruleclass=\count267
+\@thisrulewidth=\dimen167
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
@@ -419,15 +477,15 @@ Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
 1: subsection
 ("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box49
-\beforetitleunit=\skip68
-\aftertitleunit=\skip69
-\ttl@plus=\dimen159
-\ttl@minus=\dimen160
-\ttl@toksa=\toks19
-\titlewidth=\dimen161
-\titlewidthlast=\dimen162
-\titlewidthfirst=\dimen163
+\ttl@box=\box51
+\beforetitleunit=\skip71
+\aftertitleunit=\skip72
+\ttl@plus=\dimen168
+\ttl@minus=\dimen169
+\ttl@toksa=\toks24
+\titlewidth=\dimen170
+\titlewidthlast=\dimen171
+\titlewidthfirst=\dimen172
 
 
 Package titlesec Warning: Non standard sectioning command \section
@@ -477,45 +535,45 @@ Class scrartcl Warning: Usage of package `tocloft' together
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tocloft\tocloft.sty"
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip70
-\cftbeforetoctitleskip=\skip71
-\cftaftertoctitleskip=\skip72
-\cftbeforepartskip=\skip73
-\cftpartnumwidth=\skip74
-\cftpartindent=\skip75
-\cftbeforesecskip=\skip76
-\cftsecindent=\skip77
-\cftsecnumwidth=\skip78
-\cftbeforesubsecskip=\skip79
-\cftsubsecindent=\skip80
-\cftsubsecnumwidth=\skip81
-\cftbeforesubsubsecskip=\skip82
-\cftsubsubsecindent=\skip83
-\cftsubsubsecnumwidth=\skip84
-\cftbeforeparaskip=\skip85
-\cftparaindent=\skip86
-\cftparanumwidth=\skip87
-\cftbeforesubparaskip=\skip88
-\cftsubparaindent=\skip89
-\cftsubparanumwidth=\skip90
-\cftbeforeloftitleskip=\skip91
-\cftafterloftitleskip=\skip92
-\cftbeforefigskip=\skip93
-\cftfigindent=\skip94
-\cftfignumwidth=\skip95
-\c@lofdepth=\count190
-\c@lotdepth=\count191
-\cftbeforelottitleskip=\skip96
-\cftafterlottitleskip=\skip97
-\cftbeforetabskip=\skip98
-\cfttabindent=\skip99
-\cfttabnumwidth=\skip100
+\cftparskip=\skip73
+\cftbeforetoctitleskip=\skip74
+\cftaftertoctitleskip=\skip75
+\cftbeforepartskip=\skip76
+\cftpartnumwidth=\skip77
+\cftpartindent=\skip78
+\cftbeforesecskip=\skip79
+\cftsecindent=\skip80
+\cftsecnumwidth=\skip81
+\cftbeforesubsecskip=\skip82
+\cftsubsecindent=\skip83
+\cftsubsecnumwidth=\skip84
+\cftbeforesubsubsecskip=\skip85
+\cftsubsubsecindent=\skip86
+\cftsubsubsecnumwidth=\skip87
+\cftbeforeparaskip=\skip88
+\cftparaindent=\skip89
+\cftparanumwidth=\skip90
+\cftbeforesubparaskip=\skip91
+\cftsubparaindent=\skip92
+\cftsubparanumwidth=\skip93
+\cftbeforeloftitleskip=\skip94
+\cftafterloftitleskip=\skip95
+\cftbeforefigskip=\skip96
+\cftfigindent=\skip97
+\cftfignumwidth=\skip98
+\c@lofdepth=\count268
+\c@lotdepth=\count269
+\cftbeforelottitleskip=\skip99
+\cftafterlottitleskip=\skip100
+\cftbeforetabskip=\skip101
+\cfttabindent=\skip102
+\cfttabnumwidth=\skip103
 )
-\newnumberwidth=\skip101
-\beforebibskip=\skip102
-\newchnumberwidth=\skip103
-\figurelabelwidth=\skip104
-\tablelabelwidth=\skip105
+\newnumberwidth=\skip104
+\beforebibskip=\skip105
+\newchnumberwidth=\skip106
+\figurelabelwidth=\skip107
+\tablelabelwidth=\skip108
 
 Using KOMA-command "deffootnote" for footnote setup
 ("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrtime.sty"
@@ -555,9 +613,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen164
-\Hy@linkcounter=\count192
-\Hy@pagecounter=\count193
+\@linkdim=\dimen173
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
@@ -570,7 +628,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count194
+\Hy@SavedSpaceFactor=\count272
 Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4338.
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
@@ -579,9 +637,9 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count195
+\c@Hy@tempcnt=\count273
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen165
+\XeTeXLinkMargin=\dimen174
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -590,9 +648,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count196
-\Field@Width=\dimen166
-\Fld@charsize=\dimen167
+\Fld@menulength=\count274
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -606,8 +664,8 @@ LaTeX Info: Redefining \pageref on input line 6421.
 ("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count197
-\c@Item=\count198
+\Hy@abspage=\count275
+\c@Item=\count276
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -618,8 +676,8 @@ File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count199
-\c@bookmark@seq@number=\count266
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -630,7 +688,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip106
+\Hy@SectionHShift=\skip109
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 679.
 Package hyperref Info: Option `linktocpage' set `true' on input line 679.
@@ -679,50 +737,53 @@ Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
 ))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count267
-\l__pdf_internal_box=\box50
+\l__kernel_color_stack_int=\count279
+\l__pdf_internal_box=\box52
 )
-(Manuscript.aux)
+(Manuscript.aux
+
+LaTeX Warning: Label `introduction' multiply defined.
+
+)
 \openout1 = `Manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-Package scrbase Info: activating english \contentsname on input line 57.
-Package scrbase Info: activating english \listfigurename on input line 57.
-Package scrbase Info: activating english \listtablename on input line 57.
-
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+Package scrbase Info: activating english \contentsname on input line 58.
+Package scrbase Info: activating english \listfigurename on input line 58.
+Package scrbase Info: activating english \listtablename on input line 58.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
-\scratchdimen=\dimen168
-\scratchbox=\box51
-\nofMPsegments=\count269
-\nofMParguments=\count270
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count271
-\MPscratchDim=\dimen169
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count280
+\scratchdimen=\dimen177
+\scratchbox=\box53
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen178
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks28
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -740,9 +801,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\big@size=\dimen170
-\big@size=\dimen171
-LaTeX Info: Redefining \microtypecontext on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 58.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -754,8 +813,8 @@ Package microtype Info: No adjustment of character kerning.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-ppl.cfg"
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-\AtBeginShipoutBox=\box52
-Package hyperref Info: Link coloring ON on input line 57.
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring ON on input line 58.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -766,11 +825,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count274
+\c@section@level=\count286
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 58.
+LaTeX Info: Redefining \pageref on input line 58.
+LaTeX Info: Redefining \nameref on input line 58.
 
 (Manuscript.out) (Manuscript.out)
 \@outlinefile=\write3
@@ -783,7 +842,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 57.
+(scrartcl)           before \begin{document} on input line 58.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/bookmark\bookmark.sty"
 Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
@@ -793,10 +852,10 @@ File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
 Package auxhook Info: \AddLineBeginMainAux comes a little late,
 (auxhook)             because the main .aux file is already opened on input lin
 e 168.
-\BKM@id=\count275
+\BKM@id=\count287
 ))
 LaTeX Font Info:    Trying to load font information for T1+iwona on input line 
-76.
+77.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/iwona\t1iwona.fd"
 File: t1iwona.fd 2008/07/22 v0.995 font definition file for T1/iwona (MW)
@@ -806,12 +865,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 
-76.
+77.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1pplj.fd"
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
-LaTeX Font Info:    Trying to load font information for U+zeur on input line 76
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 77
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eulervm\uzeur.fd"
@@ -820,7 +879,7 @@ File: uzeur.fd 2005/01/11 v4.0 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-eur.cfg"
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeus on input line 76
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 77
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eulervm\uzeus.fd"
@@ -830,7 +889,7 @@ File: uzeus.fd 2005/01/11 v4.0 (WaS)
 File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+zeuex on input line 7
-6.
+7.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eulervm\uzeuex.fd"
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
@@ -840,7 +899,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-76.
+77.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -853,7 +912,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 {C:/Users/Marzio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Package tocbasic Info: character protrusion at toc deactivated on input line 85
+Package tocbasic Info: character protrusion at toc deactivated on input line 86
 .
  (Manuscript.toc
 Package microtype Info: Character `029' is missing
@@ -863,14 +922,14 @@ Package microtype Info: Character `029' is missing
 \tf@toc=\write4
 \openout4 = `Manuscript.toc'.
 
-Package tocbasic Info: character protrusion at lof deactivated on input line 87
+Package tocbasic Info: character protrusion at lof deactivated on input line 88
 .
 
 (Manuscript.lof)
 \tf@lof=\write5
 \openout5 = `Manuscript.lof'.
 
-Package tocbasic Info: character protrusion at lot deactivated on input line 89
+Package tocbasic Info: character protrusion at lot deactivated on input line 90
 .
  (Manuscript.lot)
 \tf@lot=\write6
@@ -880,34 +939,48 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 89
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
- (Manuscript.bbl) [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+ [4] (Manuscript.bbl
+Underfull \hbox (badness 2486) in paragraph at lines 14--18
+[]\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
+ []
+
+) [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
  (Manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 164.
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
  ) 
 Here is how much of TeX's memory you used:
- 15543 strings out of 481212
- 297046 string characters out of 2913848
- 740326 words of memory out of 3000000
- 30781 multiletter control sequences out of 15000+200000
- 620726 words of font info for 133 fonts, out of 3000000 for 9000
+ 16243 strings out of 481212
+ 305805 string characters out of 2913848
+ 754466 words of memory out of 3000000
+ 31430 multiletter control sequences out of 15000+200000
+ 629908 words of font info for 163 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 64i,23n,90p,10634b,628s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,23n,95p,10634b,703s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/iwona/ec-iwona.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonab.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (4 pages, 95664 bytes).
+/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/euler/euex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/eul
+er/eufm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eu
+rm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/nowacki/iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/nowacki/iwona/iwonar.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/p
+alatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8
+a.pfb>
+Output written on Manuscript.pdf (5 pages, 137380 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 30729 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 36881 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -1,28 +1,31 @@
 \begin{thebibliography}{1}
 
-\bibitem{smit54}
-J.~G. Smith and H.~K. Weston.
-\newblock Nothing particular in this year's history.
-\newblock {\em J. Geophys. Res.}, 2:14--15, 1954.
+\bibitem{mackay2003information}
+David JC~Mac Kay.
+\newblock {\em Information theory, inference and learning algorithms}.
+\newblock Cambridge university press, 2003.
 
-\bibitem{colu92}
-Christopher Columbus.
-\newblock {\em How {I} Discovered {America}}.
-\newblock Hispanic Press, Barcelona, 1492.
+\bibitem{james2013introduction}
+Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+\newblock {\em An introduction to statistical learning}, volume 112.
+\newblock Springer, 2013.
 
-\bibitem{gree00}
-R.~J. Green, U.~P. Fred, and W.~P. Norbert.
-\newblock Things that go bump in the night.
-\newblock {\em Psych. Today}, 46:345--678, 1900.
+\bibitem{sebhatu2020explaining}
+Abiel Sebhatu, Karl Wennberg, Stefan Arora-Jonsson, and Staffan~I Lindberg.
+\newblock Explaining the homogeneous diffusion of covid-19 nonpharmaceutical
+  interventions across heterogeneous countries.
+\newblock {\em Proceedings of the National Academy of Sciences}, 2020.
 
-\bibitem{phil99}
-T.~P. Phillips.
-\newblock Possible influence of the magnetosphere on {American} history.
-\newblock {\em J. Oddball Res.}, 98:1000--1003, 1999.
+\bibitem{skorka2020macroecology}
+Piotr Sk{\'o}rka, Beata Grzywacz, Dawid Moro{\'n}, and Magdalena Lenda.
+\newblock The macroecology of the covid-19 pandemic in the anthropocene.
+\newblock {\em PloS one}, 15(7):e0236856, 2020.
 
-\bibitem{jame76}
-Kelly James, George Harris, Jr., and Wilby Wollops.
-\newblock {American} independence and magnetism.
-\newblock {\em Revol. Tracts}, 32:34--55, 1776.
+\bibitem{block2020social}
+Per Block, Marion Hoffman, Isabel~J Raabe, Jennifer~Beam Dowd, Charles Rahal,
+  Ridhi Kashyap, and Melinda~C Mills.
+\newblock Social network-based distancing strategies to flatten the covid-19
+  curve in a post-lockdown world.
+\newblock {\em Nature Human Behaviour}, pages 1--9, 2020.
 
 \end{thebibliography}

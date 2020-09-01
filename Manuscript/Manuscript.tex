@@ -35,6 +35,7 @@ BCOR5mm, % Binding correction
 \usepackage{epigraph}
 \usepackage{mathcomp}
 \usepackage{textcomp}
+\usepackage{amsmath}
 \input{structure.tex} % Include the structure.tex file which specified the document structure and layout
 \sloppy
 \hyphenation{Fortran hy-phen-ation} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
@@ -112,6 +113,35 @@ BCOR5mm, % Binding correction
 %----------------------------------------------------------------------------------------
 
 \section{Introduction} \label{introduction}
+The recent pandemic diffusion of the virus \textit{SARS-CoV-2} connected to the \textit{COronaVIrus Disease 19} raised up a scientific issue about the different spread ratio among the different population clusters such as cities,regions and states. This behaviour can be ascribed to the fact that the features of these clusters, such as the density, the public transport as well as the individual mean income are very heterogeneous \cite{sebhatu2020explaining,skorka2020macroecology}. Furthermore the individual policies undertaken by the decision maker of these clusters have a large effect on the spread of the virus \cite{block2020social}. A good tool for an analysis about the correlations of the spread of the virus with the cluster feature is the Principal Component Analysis (PCA): this approach allows to visualize in to a single 2D plot the main statistical correlation of a data set. In is worth nothing that this type of analysis represent only the first step for the identification of causal correlation between the features: the findings obtained via PCA should be validated with a model; however this second step is out from the aim of this work.  
+
+
+\section{Theoretical Background} \label{introduction}
+As pointed out by Mackay \cite{mackay2003information} the basic idea of unsupervised learning is to mime human behaviour is to find regularities in data and group them. Among the different techniques of unsupervised learning \cite{james2013introduction} here we considered the PCA: in this section the basic ideas of this tool will be focused following the approach proposed by James et al. \cite{james2013introduction}. The aim of PCA is to plot $n$ observations with $p$ features in only one 2D plot,with the least possible loss of information, instead of $\binom{p}{2}$ 2D plots. To do so the PCA chooses, among the possible axis formed by the linear normalized combination of the features, the two associated with the largest variance, given that these two axis are orthogonal. Thus, supposing that the means of the features are null, the problem is to find the coefficients (usually called loadings) $\phi_{ij}$ that solves the following optimization problem:
+
+\begin{equation}
+max\left\lbrace \dfrac{1}{n} \sum_{i=1}^{n} \left(\sum^{p} _{j=1} \phi_{j1}x_{ij} \right)^{2}   \right\rbrace
+\end{equation}
+
+with the constraint 
+
+\begin{equation}
+\sum_{j=1}^{p}\phi_{j1}^{2}=1
+\end{equation}
+
+The loadings define the principal components (that have to be orthogonal) : 
+
+\begin{equation}
+z_{i1}=\phi_{11}x_{i1}+\phi_{21}x_{i2}+...+\phi_{p1}x_{ip}
+\end{equation}
+
+If the all the principal components are taken in to account no information is lost, however the complexity of it due to high dimensionality is the same of the starting one; however if we sacrifice the p-2 component, that have a lower variance with respect to the first two, the complexity is dramatically reduced to a 2D plot. In this case the toll paid is the lost of the information contained in the $p-2$ component. From a computational point of view this task can be performed with the standard techniques used for solving a eigenvalue problem. Once the two principal component are found, the data can plotted into the new coordinate set; the advantage of this new representation lies on the fact that if the first two principal component loading vectors are plotted a bird's-eye view of the statistical correlation between the features is obtained: basically the cosine of the angle between the loadings approximates the statistical correlation, while the position of the data with respect to the loadings will plot its feature. In this way an intuitive representation of the data, their features and the correlation among them is provided. Finally this can be accompanied by a plot of the correlation matrix as it is done in this work. 
+
+
+
+
+
+
 
 
 
@@ -127,7 +157,7 @@ BCOR5mm, % Binding correction
 
 \bibliographystyle{unsrt}
 
-\bibliography{sample.bib} % The file containing the bibliography
+\bibliography{bibliography.bib} % The file containing the bibliography
 
 %----------------------------------------------------------------------------------------
 
