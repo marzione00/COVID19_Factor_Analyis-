@@ -37,6 +37,7 @@ BCOR5mm, % Binding correction
 \usepackage{textcomp}
 \usepackage{amsmath}
 \usepackage{url}
+
 \input{structure.tex} % Include the structure.tex file which specified the document structure and layout
 \sloppy
 \hyphenation{Fortran hy-phen-ation} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
@@ -117,14 +118,14 @@ The recent pandemic diffusion of the virus \textit{SARS-CoV-2} connected to the 
 In this section a brief overview about the data analysed is provided: in particular, for each cluster,a brief description is provided  about the data gathering and assembling. 
 
 \subsection{Provinces}
-For this cluster the cumulative number of cases of COVID19 up to a certain date was obtained from the github website of \textit{Protezione Civile} \cite{github-protezionecivile}. The overall number of total cases was than divided (normalized) by the population number of its province. The population number, up to 2019, was retrieved from Istituto Nazionale di Statistica (ISTAT) \cite{ISTAT}. The size of the province was also considered in order to evaluate the density. Since the diffusion of a virus is causally correlated to connectivity and public mobility services \cite{lloyd2001viruses,kraemer2020effect} we considered also a set of economic indices in order to evaluate the industrialization and the wealth of each province: these are the mean income for person, the public transport, the pollution and the unemployment. The first one was taken from \textit{Ministero dell'Economia e delle Finanze} as reported in the following website \cite{MEF} while the other ones were obtained from the ISTAT databases \cite{ISTAT}.
+For this cluster the cumulative number of cases of COVID19 up to 24/08/2020 was obtained from the github website of \textit{Protezione Civile} \cite{github-protezionecivile}. The overall number of total cases was than divided (normalized) by the population number of its province. The population number (2019) was retrieved from Istituto Nazionale di Statistica (ISTAT) \cite{ISTAT}. The size of the province was also considered in order to evaluate the density. Since the diffusion of a virus is causally correlated to connectivity and public mobility services \cite{lloyd2001viruses,kraemer2020effect} we considered also a set of economic indices in order to evaluate the industrialization and the wealth of each province: these are the mean income for person (2019), the public transport (2012 measured as demand for resident), the private transport (2012 measured as cars for resident), the pollution and the unemployment ( 2019). The first one was taken from \textit{Ministero dell'Economia e delle Finanze} as reported in the following website \cite{MEF} while the other ones were obtained from the ISTAT databases \cite{ISTAT}.
 
 \subsection{Regions}
-As for the provinces also fort this cluster the cumulative number of cases of COVID19 was taken from from \cite{github-protezionecivile}. In this case the same source provides the overall number of tests. The unemployment rate as well the mean income were also available from ISTAT \cite{ISTAT}. Since the Italian constitution delegates partially the management of health services to the regions, new features connected to the latter are available. Here we considered the following ones: the number of resident citizens for general practitioner (\textit{medico di base}, the normalized number of structures for hospitalization, the normalized number of medical guards (\textit{guardie mediche}) multiplied by $10^{5}$ and their normalized number of visit performed multiplied by $10^{5}$. These data were retrieved from the statistical yearbook of national health service 2017 (\textit{Annuario Statistico del sistema sanitario nazionale 2017} published on the Italian minister of health \cite{AnnuarioSSN2017}.Finally we also included the marks for the essential assistance levels \textit{livelli essenziali di assistenza} as provided by the Italian minister of health for 2017 \cite{LeaRank} . These represent an evaluation of the health services for each region according to the Italian Government. A full description of the feature analysed can be found here \cite{LeaDesc}
+As for the provinces also for this cluster the cumulative number of cases of COVID19 was taken from from \cite{github-protezionecivile} up to 24/08/2020. In this case the same source provides the overall number of tests. The unemployment rate as well the mean income were also available from ISTAT \cite{ISTAT}. Since the Italian constitution delegates partially the management of health services to the regions, new features connected to the latter are available. Here we considered the following ones: the number of resident citizens for general practitioner (\textit{medico di base}, the normalized number of structures for hospitalization, the normalized number of medical guards (\textit{guardie mediche}) multiplied by $10^{5}$ and their normalized number of visit performed multiplied by $10^{5}$. These data were retrieved from the statistical yearbook of national health service 2017 (\textit{Annuario Statistico del sistema sanitario nazionale 2017} published on the Italian minister of health \cite{AnnuarioSSN2017}.Finally we also included the marks for the essential assistance levels \textit{livelli essenziali di assistenza} as provided by the Italian minister of health for 2017 \cite{LeaRank} . These represent an evaluation of the health services for each region according to the Italian Government. A full description of the feature analysed can be found here \cite{LeaDesc}
 
 \subsection{Countries}
 
-For this type of cluster the overall number of cases and deaths was taken from from the World Health Organization \cite{whoCases}. These number were normalized with the data about the total population for state provided by World Bank \cite{worldBank} up to 2019. The GDP (up to 2019) and Universal Health Coverage Index \cite{whoUHC} (up to 2017) for each country was also taken from the latter source \cite{worldBank} and than normalized. Finally the National Health Expenditure (NHA) (normalized) up to 2017, the Traffic Morality (normalized and scaled with a factor $10^{5}$) up to 2016, the Pollution Mortality (normalized), the PM 2.5 concentration ($\mu g/m^{3}$) up to 2016 were taken from the WHO databases \cite{whoDb}. It is worth nothing that selection for the counties considered in this work were the ones for which all these indicators were available. 
+For this type of cluster the overall number of cases and deaths was taken from from the World Health Organization \cite{whoCases} up to 27/08/2020. These number were normalized with the data about the total population for state provided by World Bank \cite{worldBank} up to 2019. The GDP (up to 2019) and Universal Health Coverage Index \cite{whoUHC} (up to 2017) for each country was also taken from the latter source \cite{worldBank} and than normalized. Finally the National Health Expenditure (NHA) (normalized) up to 2017, the Traffic Morality (normalized and scaled with a factor $10^{5}$) up to 2016, the Pollution Mortality (normalized), the PM 2.5 concentration ($\mu g/m^{3}$) up to 2016 were taken from the WHO databases \cite{whoDb}. It is worth nothing that selection for the counties considered in this work were the ones for which all these indicators were available. 
 
 
 \section{Theoretical Background} \label{Theoretical Background}
@@ -148,8 +149,16 @@ z_{i1}=\phi_{11}x_{i1}+\phi_{21}x_{i2}+...+\phi_{p1}x_{ip}
 
 If the all the principal components are taken in to account no information is lost, however the complexity of it due to high dimensionality is the same of the starting one; however if we sacrifice the p-2 component, that have a lower variance with respect to the first two, the complexity is dramatically reduced to a 2D plot. In this case the toll paid is the lost of the information contained in the $p-2$ component. From a computational point of view this task can be performed with the standard techniques used for solving a eigenvalue problem. Once the two principal component are found, the data can plotted into the new coordinate set; the advantage of this new representation lies on the fact that if the first two principal component loading vectors are plotted a bird's-eye view of the statistical correlation between the features is obtained: basically the cosine of the angle between the loadings approximates the statistical correlation, while the position of the data with respect to the loadings will plot its feature. In this way an intuitive representation of the data, their features and the correlation among them is provided. Finally this can be accompanied by a plot of the correlation matrix as it is done in this work. 
 
+\section{Results and discussion}
 
+For each cluster the following procedure was followed: first the correlation matrix was calculated together with its heath-map, then the PCA was performed on the scaled data. For this procedure an histogram about the importance of the components, a 2D plot of the loading vector normalized on unitary circle, and the full 2D PCA plot with the data were reported. 
 
+\textit{Provinces}
+
+\begin{figure}[h]
+\includegraphics[scale=1]{Pic/Province_FULL_CorrMatrix.pdf}
+\caption{The Correlation matrix for the Italian provinces accompanied by its heat-map as generated by the following dataset: local unemployment (2019), local private transport (2012 number of cars for 1000 residents), the air quality (2012) ,the local public transport (2012 measured as the demand for resident), the density  (2019 measured as resident for Km$^{2}$, the cumulative cases up to 26/08/2020 and the mean income (2019 measured in kEUR). Note that the public transport, the denisty the cumulative cases and the mean income are highly correlated. On the other hand the unemployment is negatively correlated to this first cluster}
+\end{figure}
 
 
 
@@ -158,7 +167,7 @@ If the all the principal components are taken in to account no information is lo
 
 %------------------------------------------------
 
-
+\clearpage
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
