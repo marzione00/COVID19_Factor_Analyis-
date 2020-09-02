@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  2 SEP 2020 16:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  2 SEP 2020 19:15
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -919,20 +919,8 @@ Package microtype Info: Character `029' is missing
 \tf@toc=\write4
 \openout4 = `Manuscript.toc'.
 
-Package tocbasic Info: character protrusion at lof deactivated on input line 90
-.
 
-(Manuscript.lof)
-\tf@lof=\write5
-\openout5 = `Manuscript.lof'.
-
-Package tocbasic Info: character protrusion at lot deactivated on input line 92
-.
- (Manuscript.lot)
-\tf@lot=\write6
-\openout6 = `Manuscript.lot'.
-
- [3]
+[3]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -944,17 +932,55 @@ Package microtype Info: Character `029' is missing
 File: Pic/Province_FULL_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_CorrMatrix.pdf>
 Package pdftex.def Info: Pic/Province_FULL_CorrMatrix.pdf  used on input line 1
-59.
+60.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 159--160
-[][] 
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 160--161
+ [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8 <./Pic/Province_FULL_CorrMatrix.pdf>] (Manuscript.bbl
+<Pic/Province_FULL_Variances.pdf, id=99, 418.56375pt x 478.78876pt>
+File: Pic/Province_FULL_Variances.pdf Graphic file (type pdf)
+<use Pic/Province_FULL_Variances.pdf>
+Package pdftex.def Info: Pic/Province_FULL_Variances.pdf  used on input line 16
+8.
+(pdftex.def)             Requested size: 209.28136pt x 239.39378pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Pic/Province_FULL_Variables-PCA.pdf, id=100, 418.56375pt x 478.78876pt>
+File: Pic/Province_FULL_Variables-PCA.pdf Graphic file (type pdf)
+<use Pic/Province_FULL_Variables-PCA.pdf>
+Package pdftex.def Info: Pic/Province_FULL_Variables-PCA.pdf  used on input lin
+e 175.
+(pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
+
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 175--176
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Pic/Provinces_PCA_FULL.pdf, id=103, 418.56375pt x 478.78876pt>
+File: Pic/Provinces_PCA_FULL.pdf Graphic file (type pdf)
+<use Pic/Provinces_PCA_FULL.pdf>
+Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 182.
+(pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
+
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 182--183
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8 <./Pic/Province_FULL_CorrMatrix.pdf>] [9 <./Pic/Province_FULL_Variances.
+pdf>] [10 <./Pic/Province_FULL_Variables-PCA.pdf>] [11 <./Pic/Provinces_PCA_FUL
+L.pdf>] (Manuscript.bbl
 Underfull \hbox (badness 1552) in paragraph at lines 14--18
 []\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
  []
@@ -1000,7 +1026,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--70
 0 &
  []
 
-[9
+[12
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 72--75
@@ -1008,21 +1034,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--75
 7 &
  []
 
-) [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 184.
+) [13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (Manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 184.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
- 16349 strings out of 481212
- 307380 string characters out of 2913848
+ 16359 strings out of 481212
+ 307805 string characters out of 2913848
  756472 words of memory out of 3000000
- 31499 multiletter control sequences out of 15000+200000
+ 31505 multiletter control sequences out of 15000+200000
  637808 words of font info for 172 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  67i,22n,97p,10634b,827s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1039,9 +1065,9 @@ Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2
 /iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (10 pages, 183674 bytes).
+Output written on Manuscript.pdf (13 pages, 212613 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
- 38462 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 38485 words of extra memory for PDF output out of 42996 (max. 10000000)
 
