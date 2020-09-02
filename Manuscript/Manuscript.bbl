@@ -54,6 +54,40 @@ Alun~L Lloyd and Robert~M May.
 \bibitem{MEF}
 Ministero dell'Economia e~delle Finanze.
 \newblock
-  \url{https://www.idealista.it/news/finanza/economia/2019/04/02/130615-la-mappa-del-reddito-pro-capite-nelle-province-italiane}.
+  \url{https://www.idealista.it/news/finanza/economia/2019/04/02/130615-la-mappa-del-reddito-pro-capite-nelle-province-italiane},
+  2019.
+
+\bibitem{AnnuarioSSN2017}
+Ministero della salute.
+\newblock
+  \url{http://www.salute.gov.it/portale/documentazione/p6_2_2_1.jsp?lingua=italiano&id=2879},
+  2017.
+
+\bibitem{LeaDesc}
+Ministero della salute.
+\newblock
+  \url{http://www.salute.gov.it/portale/lea/dettaglioContenutiLea.jsp?lingua=italiano&id=1300&area=Lea&menu=leaEssn}.
+
+\bibitem{LeaRank}
+Ministero della salute.
+\newblock
+  \url{http://www.salute.gov.it/portale/lea/dettaglioContenutiLea.jsp?lingua=italiano&id=4747&area=Lea&menu=monitoraggioLea}.
+
+\bibitem{whoCases}
+World~Health Organization.
+\newblock \url{https://covid19.who.int/table}.
+
+\bibitem{worldBank}
+World Bank.
+\newblock \url{https://data.worldbank.org/indicator}.
+
+\bibitem{whoUHC}
+World~Helth Organization.
+\newblock
+  \url{https://www.who.int/data/gho/indicator-metadata-registry/imr-details/4834}.
+
+\bibitem{whoDb}
+World~Helth Organization.
+\newblock \url{https://www.who.int/data/gho}.
 
 \end{thebibliography}

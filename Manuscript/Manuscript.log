@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  1 SEP 2020 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  2 SEP 2020 13:17
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -939,7 +939,7 @@ Package microtype Info: Character `029' is missing
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [4] [5] (Manuscript.bbl
+ [4] [5] [6] (Manuscript.bbl
 Underfull \hbox (badness 1552) in paragraph at lines 14--18
 []\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
  []
@@ -955,39 +955,57 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
 []\T1/pplj/m/n/12 Ministero dell'Economia e delle Fi-nanze.  [][]$\T1/fvm/m/n/1
 2 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--58
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
 \T1/fvm/m/n/12 / / www . idealista . it / news / finanza / economia / 2019 / 04
  / 02 /
  []
 
 
-Overfull \hbox (41.66833pt too wide) in paragraph at lines 55--58
+Overfull \hbox (42.26834pt too wide) in paragraph at lines 55--59
 \T1/fvm/m/n/12 130615-[]la-[]mappa-[]del-[]reddito-[]pro-[]capite-[]nelle-[]pro
-vince-[]italiane$[][]\T1/pplj/m/n/12 . 
+vince-[]italiane$[][]\T1/pplj/m/n/12 ,
  []
 
-) [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
+\T1/fvm/m/n/12 documentazione / p6 _ 2 _ 2 _ 1 . jsp ? lingua = italiano & id =
+ 2879$[][]\T1/pplj/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
+\T1/fvm/m/n/12 lea / dettaglioContenutiLea . jsp ? lingua = italiano & id = 130
+0 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+\T1/fvm/m/n/12 lea / dettaglioContenutiLea . jsp ? lingua = italiano & id = 474
+7 &
+ []
+
+) [8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (Manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 168.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 168.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 16303 strings out of 481212
- 306688 string characters out of 2913848
- 756472 words of memory out of 3000000
- 31474 multiletter control sequences out of 15000+200000
+ 16323 strings out of 481212
+ 306908 string characters out of 2913848
+ 755472 words of memory out of 3000000
+ 31484 multiletter control sequences out of 15000+200000
  633169 words of font info for 166 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  67i,22n,97p,10634b,827s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1003,9 +1021,9 @@ KTeX 2.9/fonts/type1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/n
 owacki/iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/
 iwonar.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (7 pages, 156061 bytes).
+Output written on Manuscript.pdf (8 pages, 170723 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 37921 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 37937 words of extra memory for PDF output out of 42996 (max. 10000000)
 
