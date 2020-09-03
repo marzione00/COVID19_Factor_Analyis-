@@ -90,4 +90,38 @@ World~Helth Organization.
 World~Helth Organization.
 \newblock \url{https://www.who.int/data/gho}.
 
+\bibitem{SARSlesson}
+Noah~C Peeri, Nistha Shrestha, Md~Siddikur Rahman, Rafdzah Zaki, Zhengqi Tan,
+  Saana Bibi, Mahdi Baghbanzadeh, Nasrin Aghamohammadi, Wenyi Zhang, and Ubydul
+  Haque.
+\newblock {The SARS, MERS and novel coronavirus (COVID-19) epidemics, the
+  newest and biggest global health threats: what lessons have we learned?}
+\newblock {\em International Journal of Epidemiology}, 49(3):717--726, 02 2020.
+
+\bibitem{weyers2008low}
+Simone Weyers, Nico Dragano, Susanne M{\"o}bus, Eva-Maria Beck, Andreas Stang,
+  Stephan M{\"o}hlenkamp, Karl~Heinz J{\"o}ckel, Raimund Erbel, and Johannes
+  Siegrist.
+\newblock Low socio-economic position is associated with poor social networks
+  and social support: results from the heinz nixdorf recall study.
+\newblock {\em International Journal for Equity in Health}, 7(1):13, 2008.
+
+\bibitem{gangemi2020rich}
+Sebastiano Gangemi, Lucia Billeci, and Alessandro Tonacci.
+\newblock Rich at risk: socio-economic drivers of covid-19 pandemic spread.
+\newblock {\em Clinical and Molecular Allergy}, 18(1):1--3, 2020.
+
+\bibitem{world2010hidden}
+World Health Organization.~Centre for Health~Development and World~Health
+  Organization.
+\newblock {\em Hidden cities: unmasking and overcoming health inequities in
+  urban settings}.
+\newblock World Health Organization, 2010.
+
+\bibitem{neiderud2015urbanization}
+Carl-Johan Neiderud.
+\newblock How urbanization affects the epidemiology of emerging infectious
+  diseases.
+\newblock {\em Infection ecology \& epidemiology}, 5(1):27060, 2015.
+
 \end{thebibliography}

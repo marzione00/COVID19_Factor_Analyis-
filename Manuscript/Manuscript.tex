@@ -155,6 +155,9 @@ For each cluster the following procedure was followed: first the correlation mat
 
 \subsection{Provinces}
 
+From the inspection of the plots \ref{Province_corr_matrix},\ref{Province_FULL_Variables-PCA} and \ref{Provinces_PCA_FULL} it is possible to point out that the public transport, the density, the normalized cumulative cases and the mean income are positively correlated. This statistical correlations are causally validated by different previous publications \cite{neiderud2015urbanization,world2010hidden,gangemi2020rich,weyers2008low}. The argument that explains this behaviour is that a higher density, a higher public transport demand and a higher income increase the rate of contact between the individuals: the first one since people are closer and so a contact between has a higher probability with respect to a low density areas (such as a rural context), the second one since when individuals use the public transport are very close each other (indeed there is no correlation between the cases and private transport), the third one because rich people can spend more money for social events or perhaps in to travels. This fact is corroborated by the negative statistical correlation between cases and unemployment (in this case also the fact that a worker has a higher mobility due to the fact that he/she has to reach the place of work must be considered). One can be at first confused by the fact that the air quality have a strong correlation with the private transport and the public transport has a different direction: this can ascribed to the fact that in rural provinces, were the air quality is higher and the public transport services are reduced,  people are forced to own a private vehicle, while in urban provinces they can consider to use only the public transport. Finally note that looking to the plot \ref{Province_FULL_Variances} the PCA analysis reported in plots \ref{Province_FULL_Variables-PCA} and \ref{Provinces_PCA_FULL} captures almost the 40 $\%$ of variance. 
+
+
 \begin{figure}[h]
 \begin{center}
 \includegraphics[scale=1]{Pic/Province_FULL_CorrMatrix.pdf}
@@ -167,13 +170,15 @@ For each cluster the following procedure was followed: first the correlation mat
 \begin{center}
 \includegraphics[scale=0.5]{Pic/Province_FULL_Variances.pdf}
 \caption{Percentage of variance for each component of the dataset concerning the provinces. Note that using the first two, almost the 60 $\% $ of variance is captured, as consequence the information lost is almost the 40 $\%$ }
+\label{Province_FULL_Variances}
 \end{center}
 \end{figure}
 
 \begin{figure}[h]
 \begin{center}
 \includegraphics[scale=1]{Pic/Province_FULL_Variables-PCA.pdf}
-\caption{2D plot of the loading vector for the dataset of provinces normalized on unitary circle. The features, the date of their collection and unit of measure are the same of Fig. \ref{Province_corr_matrix}}
+\caption{2D plot of the loading vector for the dataset of provinces normalized on unitary circle. The features, the date of their collection and unit of measure are the same of Fig. \ref{Province_FULL_Variables-PCA}}
+\label{Province_FULL_Variables-PCA}
 \end{center}
 \end{figure}
 
@@ -181,8 +186,13 @@ For each cluster the following procedure was followed: first the correlation mat
 \begin{center}
 \includegraphics[scale=1]{Pic/Provinces_PCA_FULL.pdf}
 \caption{The dataset of provinces plotted on the two principal components that capture the 60 $\% $ of variance. The provinces are labelled with their vehicle registration abbreviation. The features, the date of their collection and unit of measure are the same of Fig. \ref{Province_corr_matrix} }
+\label{Provinces_PCA_FULL}
 \end{center}
 \end{figure}
+
+\clearpage
+
+\subsection{Regions}
 
 
 
@@ -193,7 +203,7 @@ For each cluster the following procedure was followed: first the correlation mat
 
 %------------------------------------------------
 
-\clearpage
+
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
