@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  7 SEP 2020 17:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  7 SEP 2020 19:13
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -922,19 +922,19 @@ Package microtype Info: Character `029' is missing
 Package tocbasic Info: character protrusion at lof deactivated on input line 90
 .
 
-(Manuscript.lof [3])
+(Manuscript.lof [3] [4])
 \tf@lof=\write5
 \openout5 = `Manuscript.lof'.
 
- [4]
+ [5]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [5] [6] [7]
-<Pic/Province_FULL_CorrMatrix.pdf, id=135, 418.56375pt x 478.78876pt>
+ [6] [7] [8]
+<Pic/Province_FULL_CorrMatrix.pdf, id=151, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_CorrMatrix.pdf>
 Package pdftex.def Info: Pic/Province_FULL_CorrMatrix.pdf  used on input line 1
@@ -945,11 +945,11 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 163--164
  [] 
  []
 
-[8]
+[9]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Province_FULL_Variances.pdf, id=144, 418.56375pt x 478.78876pt>
+<Pic/Province_FULL_Variances.pdf, id=160, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_Variances.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variances.pdf>
 Package pdftex.def Info: Pic/Province_FULL_Variances.pdf  used on input line 17
@@ -963,7 +963,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 171--172
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Province_FULL_Variables-PCA.pdf, id=145, 418.56375pt x 478.78876pt>
+<Pic/Province_FULL_Variables-PCA.pdf, id=161, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_Variables-PCA.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variables-PCA.pdf>
 Package pdftex.def Info: Pic/Province_FULL_Variables-PCA.pdf  used on input lin
@@ -977,7 +977,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 179--180
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Provinces_PCA_FULL.pdf, id=148, 418.56375pt x 478.78876pt>
+<Pic/Provinces_PCA_FULL.pdf, id=164, 418.56375pt x 478.78876pt>
 File: Pic/Provinces_PCA_FULL.pdf Graphic file (type pdf)
 <use Pic/Provinces_PCA_FULL.pdf>
 Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 187.
@@ -990,10 +990,10 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 187--188
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] [10 <./Pic/Province_FULL_CorrMatrix.pdf>] [11 <./Pic/Province_FULL_Variance
-s.pdf>] [12 <./Pic/Province_FULL_Variables-PCA.pdf>] [13 <./Pic/Provinces_PCA_F
-ULL.pdf>]
-<Pic/Regions_CorrMatrix.pdf, id=202, 418.56375pt x 478.78876pt>
+[10] [11 <./Pic/Province_FULL_CorrMatrix.pdf>] [12 <./Pic/Province_FULL_Varianc
+es.pdf>] [13 <./Pic/Province_FULL_Variables-PCA.pdf>] [14 <./Pic/Provinces_PCA_
+FULL.pdf>]
+<Pic/Regions_CorrMatrix.pdf, id=218, 418.56375pt x 478.78876pt>
 File: Pic/Regions_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Regions_CorrMatrix.pdf>
 Package pdftex.def Info: Pic/Regions_CorrMatrix.pdf  used on input line 203.
@@ -1006,7 +1006,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 203--204
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Region_variances.pdf, id=203, 418.56375pt x 478.78876pt>
+<Pic/Region_variances.pdf, id=219, 418.56375pt x 478.78876pt>
 File: Pic/Region_variances.pdf Graphic file (type pdf)
 <use Pic/Region_variances.pdf>
 Package pdftex.def Info: Pic/Region_variances.pdf  used on input line 212.
@@ -1019,7 +1019,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 212--213
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Regioni_PCA_loadings.pdf, id=204, 418.56375pt x 478.78876pt>
+<Pic/Regioni_PCA_loadings.pdf, id=220, 418.56375pt x 478.78876pt>
 File: Pic/Regioni_PCA_loadings.pdf Graphic file (type pdf)
 <use Pic/Regioni_PCA_loadings.pdf>
 Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 221.
@@ -1032,7 +1032,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 221--222
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Regions_FULL_PCA.pdf, id=207, 418.56375pt x 478.78876pt>
+<Pic/Regions_FULL_PCA.pdf, id=223, 418.56375pt x 478.78876pt>
 File: Pic/Regions_FULL_PCA.pdf Graphic file (type pdf)
 <use Pic/Regions_FULL_PCA.pdf>
 Package pdftex.def Info: Pic/Regions_FULL_PCA.pdf  used on input line 230.
@@ -1045,11 +1045,63 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 230--231
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14
+[15
 
-] [15 <./Pic/Regions_CorrMatrix.pdf>] [16 <./Pic/Region_variances.pdf>]
-[17 <./Pic/Regioni_PCA_loadings.pdf>] [18 <./Pic/Regions_FULL_PCA.pdf>]
-(Manuscript.bbl
+] [16 <./Pic/Regions_CorrMatrix.pdf>] [17 <./Pic/Region_variances.pdf>]
+[18 <./Pic/Regioni_PCA_loadings.pdf>] [19 <./Pic/Regions_FULL_PCA.pdf>]
+<Pic/CorrMatrix_WORLD.pdf, id=270, 418.56375pt x 478.78876pt>
+File: Pic/CorrMatrix_WORLD.pdf Graphic file (type pdf)
+<use Pic/CorrMatrix_WORLD.pdf>
+Package pdftex.def Info: Pic/CorrMatrix_WORLD.pdf  used on input line 243.
+(pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
+
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 243--244
+ [] 
+ []
+
+<Pic/Variances-PCA_WORLD.pdf, id=271, 418.56375pt x 478.78876pt>
+File: Pic/Variances-PCA_WORLD.pdf Graphic file (type pdf)
+<use Pic/Variances-PCA_WORLD.pdf>
+Package pdftex.def Info: Pic/Variances-PCA_WORLD.pdf  used on input line 252.
+(pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
+
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 252--253
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Pic/PCA-Loadings_WORLD.pdf, id=272, 418.56375pt x 478.78876pt>
+File: Pic/PCA-Loadings_WORLD.pdf Graphic file (type pdf)
+<use Pic/PCA-Loadings_WORLD.pdf>
+Package pdftex.def Info: Pic/PCA-Loadings_WORLD.pdf  used on input line 261.
+(pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
+
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 261--262
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Pic/World_FULLPCA.pdf, id=275, 418.56375pt x 478.78876pt>
+File: Pic/World_FULLPCA.pdf Graphic file (type pdf)
+<use Pic/World_FULLPCA.pdf>
+Package pdftex.def Info: Pic/World_FULLPCA.pdf  used on input line 270.
+(pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
+
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 270--271
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20
+
+ <./Pic/CorrMatrix_WORLD.pdf>] [21 <./Pic/Variances-PCA_WORLD.pdf>] [22 <./Pic/
+PCA-Loadings_WORLD.pdf>] [23 <./Pic/World_FULLPCA.pdf>] (Manuscript.bbl
 Underfull \hbox (badness 1552) in paragraph at lines 14--18
 []\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
  []
@@ -1095,7 +1147,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--70
 0 &
  []
 
-[19
+[24
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 72--75
@@ -1109,21 +1161,21 @@ Underfull \hbox (badness 2809) in paragraph at lines 133--135
 ttps : / / 24plus .
  []
 
-) [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
+) [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
  (Manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 259.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 259.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 299.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 299.
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 299.
  ) 
 Here is how much of TeX's memory you used:
- 16435 strings out of 481212
- 309424 string characters out of 2913848
+ 16479 strings out of 481212
+ 310431 string characters out of 2913848
  756472 words of memory out of 3000000
- 31555 multiletter control sequences out of 15000+200000
+ 31585 multiletter control sequences out of 15000+200000
  637808 words of font info for 172 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  75i,23n,102p,10634b,838s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1140,9 +1192,9 @@ Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2
 /iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (20 pages, 261614 bytes).
+Output written on Manuscript.pdf (25 pages, 303960 bytes).
 PDF statistics:
- 372 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
- 38513 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 441 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 38541 words of extra memory for PDF output out of 42996 (max. 10000000)
 
