@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  7 SEP 2020 10:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  7 SEP 2020 17:35
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -993,7 +993,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [9] [10 <./Pic/Province_FULL_CorrMatrix.pdf>] [11 <./Pic/Province_FULL_Variance
 s.pdf>] [12 <./Pic/Province_FULL_Variables-PCA.pdf>] [13 <./Pic/Provinces_PCA_F
 ULL.pdf>]
-<Pic/Regions_CorrMatrix.pdf, id=197, 418.56375pt x 478.78876pt>
+<Pic/Regions_CorrMatrix.pdf, id=202, 418.56375pt x 478.78876pt>
 File: Pic/Regions_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Regions_CorrMatrix.pdf>
 Package pdftex.def Info: Pic/Regions_CorrMatrix.pdf  used on input line 203.
@@ -1006,7 +1006,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 203--204
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Region_variances.pdf, id=198, 418.56375pt x 478.78876pt>
+<Pic/Region_variances.pdf, id=203, 418.56375pt x 478.78876pt>
 File: Pic/Region_variances.pdf Graphic file (type pdf)
 <use Pic/Region_variances.pdf>
 Package pdftex.def Info: Pic/Region_variances.pdf  used on input line 212.
@@ -1019,7 +1019,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 212--213
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Regioni_PCA_loadings.pdf, id=199, 418.56375pt x 478.78876pt>
+<Pic/Regioni_PCA_loadings.pdf, id=204, 418.56375pt x 478.78876pt>
 File: Pic/Regioni_PCA_loadings.pdf Graphic file (type pdf)
 <use Pic/Regioni_PCA_loadings.pdf>
 Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 221.
@@ -1032,7 +1032,7 @@ Overfull \hbox (48.56271pt too wide) in paragraph at lines 221--222
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Regions_FULL_PCA.pdf, id=202, 418.56375pt x 478.78876pt>
+<Pic/Regions_FULL_PCA.pdf, id=207, 418.56375pt x 478.78876pt>
 File: Pic/Regions_FULL_PCA.pdf Graphic file (type pdf)
 <use Pic/Regions_FULL_PCA.pdf>
 Package pdftex.def Info: Pic/Regions_FULL_PCA.pdf  used on input line 230.
@@ -1103,6 +1103,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--75
 7 &
  []
 
+
+Underfull \hbox (badness 2809) in paragraph at lines 133--135
+[]\T1/pplj/m/n/12 Roberto Galullo and An-gelo Min-cuzzi.  [][]$\T1/fvm/m/n/12 h
+ttps : / / 24plus .
+ []
+
 ) [20]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
@@ -1114,11 +1120,11 @@ Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 259.
  ) 
 Here is how much of TeX's memory you used:
- 16461 strings out of 481212
- 309817 string characters out of 2913848
+ 16435 strings out of 481212
+ 309424 string characters out of 2913848
  756472 words of memory out of 3000000
- 31573 multiletter control sequences out of 15000+200000
- 649415 words of font info for 189 fonts, out of 3000000 for 9000
+ 31555 multiletter control sequences out of 15000+200000
+ 637808 words of font info for 172 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  75i,23n,102p,10634b,838s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
@@ -1134,9 +1140,9 @@ Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2
 /iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (20 pages, 259212 bytes).
+Output written on Manuscript.pdf (20 pages, 261614 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 41073 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 372 PDF objects out of 1000 (max. 8388607)
+ 65 named destinations out of 1000 (max. 500000)
+ 38513 words of extra memory for PDF output out of 42996 (max. 10000000)
 
