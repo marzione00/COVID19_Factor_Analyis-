@@ -1,11 +1,13 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}{Introduction}}{6}{section.1}%
-\contentsline {section}{\numberline {2}{Data description}}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}{Provinces}}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}{Regions}}{7}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}{Countries}}{7}{subsection.2.3}%
-\contentsline {section}{\numberline {3}{Theoretical Background}}{8}{section.3}%
-\contentsline {section}{\numberline {4}{Results and discussion}}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}{Provinces}}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}{Regions}}{15}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}{Countries}}{20}{subsection.4.3}%
+\contentsline {section}{\numberline {1}{Introduction}}{4}{section.1}%
+\contentsline {section}{\numberline {2}{Data description}}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}{Provinces}}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}{Regions}}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}{Countries}}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}{Theoretical Background}}{6}{section.3}%
+\contentsline {section}{\numberline {4}{Results and discussion}}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}{Provinces}}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}{Regions}}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}{Countries}}{18}{subsection.4.3}%
+\contentsline {section}{\numberline {5}{Conclusions}}{23}{section.5}%
+\contentsline {section}{\numberline {6}{R code}}{23}{section.6}%

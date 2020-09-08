@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  7 SEP 2020 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  8 SEP 2020 14:34
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -313,6 +313,108 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/sectsty\sectsty.sty"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+
+Class scrartcl Warning: Incompatible package `sectsty' loaded!
+(scrartcl)              Package `sectsty' up to version 2.0.2 is incompatible
+(scrartcl)              with KOMA-Script from version 2.8e released in 2001.
+(scrartcl)              You should avoid that package and configure the
+(scrartcl)              section titles of your document using the KOMA-Script
+(scrartcl)              user interface, e.g., \chapterlinesformat,
+(scrartcl)              \RedeclareSectionCommand etc. or you should ask
+(scrartcl)              the `sectsty' maintainer for a more compatible release.
+
+(scrartcl)              Ignoring this warning could result in several error
+(scrartcl)              messages and formatting issues after loading package
+(scrartcl)              `sectsty' on input line 41.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/colortbl\colortbl.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen154
+\ar@mcellbox=\box51
+\extrarowheight=\dimen155
+\NC@list=\toks23
+\extratabsurround=\skip70
+\backup@length=\skip71
+\ar@cellbox=\box52
+)
+\everycr=\toks24
+\minrowclearance=\skip72
+)
+\rownum=\count196
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\svgnam.def"
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count197
+\lst@gtempboxa=\box53
+\lst@token=\toks25
+\lst@length=\count198
+\lst@currlwidth=\dimen156
+\lst@column=\count199
+\lst@pos=\count266
+\lst@lostspace=\dimen157
+\lst@width=\dimen158
+\lst@newlines=\count267
+\lst@lineno=\count268
+\lst@maxwidth=\dimen159
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count269
+\lst@skipnumbers=\count270
+\lst@framebox=\box54
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang2.sty"
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang3.sty"
+File: lstlang3.sty 2020/03/24 1.8d listings language file
 ) (structure.tex
 ("C:\Program Files\MiKTeX 2.9\tex/latex/classicthesis\classicthesis.sty"
 Package: classicthesis 2018/06/03 v4.6 Typographic style for a classic-looking 
@@ -347,26 +449,6 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\mathpazo.sty"
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup5
@@ -385,19 +467,19 @@ File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.sty"
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks23
-\MT@count=\count196
+\MT@toks=\toks26
+\MT@count=\count271
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen154
+\MT@outer@kern=\dimen160
 LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count197
+\MT@listname@count=\count272
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype-pdftex.def"
 File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip70
+\MT@outer@space=\skip73
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -427,23 +509,23 @@ Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen155
-\lightrulewidth=\dimen156
-\cmidrulewidth=\dimen157
-\belowrulesep=\dimen158
-\belowbottomsep=\dimen159
-\aboverulesep=\dimen160
-\abovetopsep=\dimen161
-\cmidrulesep=\dimen162
-\cmidrulekern=\dimen163
-\defaultaddspace=\dimen164
-\@cmidla=\count198
-\@cmidlb=\count199
-\@aboverulesep=\dimen165
-\@belowrulesep=\dimen166
-\@thisruleclass=\count266
-\@lastruleclass=\count267
-\@thisrulewidth=\dimen167
+\heavyrulewidth=\dimen161
+\lightrulewidth=\dimen162
+\cmidrulewidth=\dimen163
+\belowrulesep=\dimen164
+\belowbottomsep=\dimen165
+\aboverulesep=\dimen166
+\abovetopsep=\dimen167
+\cmidrulesep=\dimen168
+\cmidrulekern=\dimen169
+\defaultaddspace=\dimen170
+\@cmidla=\count273
+\@cmidlb=\count274
+\@aboverulesep=\dimen171
+\@belowrulesep=\dimen172
+\@thisruleclass=\count275
+\@lastruleclass=\count276
+\@thisrulewidth=\dimen173
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
 Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
@@ -477,36 +559,15 @@ Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
 1: subsection
 ("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box51
-\beforetitleunit=\skip71
-\aftertitleunit=\skip72
-\ttl@plus=\dimen168
-\ttl@minus=\dimen169
-\ttl@toksa=\toks24
-\titlewidth=\dimen170
-\titlewidthlast=\dimen171
-\titlewidthfirst=\dimen172
-
-
-Package titlesec Warning: Non standard sectioning command \section
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \subsection
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \subsubsection
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \paragraph
-(titlesec)                detected. Using default spacing and no format.
-
-
-Package titlesec Warning: Non standard sectioning command \subparagraph
-(titlesec)                detected. Using default spacing and no format.
-
+\ttl@box=\box55
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen174
+\ttl@minus=\dimen175
+\ttl@toksa=\toks27
+\titlewidth=\dimen176
+\titlewidthlast=\dimen177
+\titlewidthfirst=\dimen178
 )
 Class scrartcl Info: Unknown `titesec' release.
 (scrartcl)           Cross your fingers, that is compatible on input line 362.
@@ -535,45 +596,53 @@ Class scrartcl Warning: Usage of package `tocloft' together
 ("C:\Program Files\MiKTeX 2.9\tex/latex/tocloft\tocloft.sty"
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
-\cftparskip=\skip73
-\cftbeforetoctitleskip=\skip74
-\cftaftertoctitleskip=\skip75
-\cftbeforepartskip=\skip76
-\cftpartnumwidth=\skip77
-\cftpartindent=\skip78
-\cftbeforesecskip=\skip79
-\cftsecindent=\skip80
-\cftsecnumwidth=\skip81
-\cftbeforesubsecskip=\skip82
-\cftsubsecindent=\skip83
-\cftsubsecnumwidth=\skip84
-\cftbeforesubsubsecskip=\skip85
-\cftsubsubsecindent=\skip86
-\cftsubsubsecnumwidth=\skip87
-\cftbeforeparaskip=\skip88
-\cftparaindent=\skip89
-\cftparanumwidth=\skip90
-\cftbeforesubparaskip=\skip91
-\cftsubparaindent=\skip92
-\cftsubparanumwidth=\skip93
-\cftbeforeloftitleskip=\skip94
-\cftafterloftitleskip=\skip95
-\cftbeforefigskip=\skip96
-\cftfigindent=\skip97
-\cftfignumwidth=\skip98
-\c@lofdepth=\count268
-\c@lotdepth=\count269
-\cftbeforelottitleskip=\skip99
-\cftafterlottitleskip=\skip100
-\cftbeforetabskip=\skip101
-\cfttabindent=\skip102
-\cfttabnumwidth=\skip103
+\cftparskip=\skip76
+\cftbeforetoctitleskip=\skip77
+\cftaftertoctitleskip=\skip78
+\cftbeforepartskip=\skip79
+\cftpartnumwidth=\skip80
+\cftpartindent=\skip81
+\cftbeforesecskip=\skip82
+\cftsecindent=\skip83
+\cftsecnumwidth=\skip84
+\cftbeforesubsecskip=\skip85
+\cftsubsecindent=\skip86
+\cftsubsecnumwidth=\skip87
+\cftbeforesubsubsecskip=\skip88
+\cftsubsubsecindent=\skip89
+\cftsubsubsecnumwidth=\skip90
+\cftbeforeparaskip=\skip91
+\cftparaindent=\skip92
+\cftparanumwidth=\skip93
+\cftbeforesubparaskip=\skip94
+\cftsubparaindent=\skip95
+\cftsubparanumwidth=\skip96
+\cftbeforeloftitleskip=\skip97
+\cftafterloftitleskip=\skip98
+\cftbeforefigskip=\skip99
+\cftfigindent=\skip100
+\cftfignumwidth=\skip101
+\c@lofdepth=\count277
+\c@lotdepth=\count278
+\cftbeforelottitleskip=\skip102
+\cftafterlottitleskip=\skip103
+\cftbeforetabskip=\skip104
+\cfttabindent=\skip105
+\cfttabnumwidth=\skip106
 )
-\newnumberwidth=\skip104
-\beforebibskip=\skip105
-\newchnumberwidth=\skip106
-\figurelabelwidth=\skip107
-\tablelabelwidth=\skip108
+\newnumberwidth=\skip107
+\beforebibskip=\skip108
+\newchnumberwidth=\skip109
+\figurelabelwidth=\skip110
+\tablelabelwidth=\skip111
+\c@listings=\count279
+\cftbeforelistingsskip=\skip112
+\cftlistingsindent=\skip113
+\cftlistingsnumwidth=\skip114
+\c@loldepth=\count280
+\cftbeforeloltitleskip=\skip115
+\cftafterloltitleskip=\skip116
+\listingslabelwidth=\skip117
 
 Using KOMA-command "deffootnote" for footnote setup
 ("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrtime.sty"
@@ -613,9 +682,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen173
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
+\@linkdim=\dimen179
+\Hy@linkcounter=\count281
+\Hy@pagecounter=\count282
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
@@ -628,7 +697,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count272
+\Hy@SavedSpaceFactor=\count283
 Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4338.
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
@@ -637,9 +706,9 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count273
+\c@Hy@tempcnt=\count284
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen174
+\XeTeXLinkMargin=\dimen180
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -648,9 +717,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count274
-\Field@Width=\dimen175
-\Fld@charsize=\dimen176
+\Fld@menulength=\count285
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -664,8 +733,8 @@ LaTeX Info: Redefining \pageref on input line 6421.
 ("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count275
-\c@Item=\count276
+\Hy@abspage=\count286
+\c@Item=\count287
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -676,8 +745,8 @@ File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count277
-\c@bookmark@seq@number=\count278
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -688,7 +757,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip109
+\Hy@SectionHShift=\skip118
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 679.
 Package hyperref Info: Option `linktocpage' set `true' on input line 679.
@@ -737,50 +806,50 @@ Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks25
-\inpenc@posthook=\toks26
+\inpenc@prehook=\toks28
+\inpenc@posthook=\toks29
 ))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count279
-\l__pdf_internal_box=\box52
+\l__kernel_color_stack_int=\count290
+\l__pdf_internal_box=\box56
 )
 (Manuscript.aux)
 \openout1 = `Manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-Package scrbase Info: activating english \contentsname on input line 60.
-Package scrbase Info: activating english \listfigurename on input line 60.
-Package scrbase Info: activating english \listtablename on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+Package scrbase Info: activating english \contentsname on input line 62.
+Package scrbase Info: activating english \listfigurename on input line 62.
+Package scrbase Info: activating english \listtablename on input line 62.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count280
-\scratchdimen=\dimen177
-\scratchbox=\box53
-\nofMPsegments=\count281
-\nofMParguments=\count282
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count283
-\MPscratchDim=\dimen178
-\MPnumerator=\count284
-\makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count291
+\scratchdimen=\dimen183
+\scratchbox=\box57
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen184
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks31
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -797,8 +866,10 @@ G,.JBIG2,.JB2,.eps]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 60.
+\c@lstlisting=\count297
+LaTeX Info: Redefining \microtypecontext on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -810,8 +881,8 @@ Package microtype Info: No adjustment of character kerning.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-ppl.cfg"
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
-\AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring ON on input line 60.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring ON on input line 62.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -822,11 +893,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count286
+\c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 60.
-LaTeX Info: Redefining \pageref on input line 60.
-LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
 
 (Manuscript.out) (Manuscript.out)
 \@outlinefile=\write3
@@ -839,7 +910,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 60.
+(scrartcl)           before \begin{document} on input line 62.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/bookmark\bookmark.sty"
 Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
@@ -849,10 +920,10 @@ File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
 Package auxhook Info: \AddLineBeginMainAux comes a little late,
 (auxhook)             because the main .aux file is already opened on input lin
 e 168.
-\BKM@id=\count287
+\BKM@id=\count299
 ))
 LaTeX Font Info:    Trying to load font information for T1+iwona on input line 
-79.
+95.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/iwona\t1iwona.fd"
 File: t1iwona.fd 2008/07/22 v0.995 font definition file for T1/iwona (MW)
@@ -862,12 +933,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 
-79.
+95.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1pplj.fd"
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
-LaTeX Font Info:    Trying to load font information for U+zeur on input line 79
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 95
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eulervm\uzeur.fd"
@@ -876,7 +947,7 @@ File: uzeur.fd 2005/01/11 v4.0 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-eur.cfg"
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeus on input line 79
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 95
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eulervm\uzeus.fd"
@@ -885,8 +956,8 @@ File: uzeus.fd 2005/01/11 v4.0 (WaS)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-eus.cfg"
 File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeuex on input line 7
-9.
+LaTeX Font Info:    Trying to load font information for U+zeuex on input line 9
+5.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/eulervm\uzeuex.fd"
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
@@ -896,7 +967,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-79.
+95.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -909,8 +980,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 {C:/Users/Marzio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Package tocbasic Info: character protrusion at toc deactivated on input line 88
-.
+Package tocbasic Info: character protrusion at toc deactivated on input line 12
+3.
  (Manuscript.toc
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/pplj/m/sc/12'.
@@ -919,204 +990,244 @@ Package microtype Info: Character `029' is missing
 \tf@toc=\write4
 \openout4 = `Manuscript.toc'.
 
-Package tocbasic Info: character protrusion at lof deactivated on input line 90
-.
 
-(Manuscript.lof [3] [4])
-\tf@lof=\write5
-\openout5 = `Manuscript.lof'.
-
- [5]
+[3]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
- [6] [7] [8]
-<Pic/Province_FULL_CorrMatrix.pdf, id=151, 418.56375pt x 478.78876pt>
+ [4] [5] [6]
+<Pic/Province_FULL_CorrMatrix.pdf, id=119, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_CorrMatrix.pdf>
 Package pdftex.def Info: Pic/Province_FULL_CorrMatrix.pdf  used on input line 1
-63.
+89.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 163--164
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 189--190
  [] 
  []
 
-[9]
+[7]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Province_FULL_Variances.pdf, id=160, 418.56375pt x 478.78876pt>
+<Pic/Province_FULL_Variances.pdf, id=133, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_Variances.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variances.pdf>
-Package pdftex.def Info: Pic/Province_FULL_Variances.pdf  used on input line 17
-1.
+Package pdftex.def Info: Pic/Province_FULL_Variances.pdf  used on input line 19
+7.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 171--172
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 197--198
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Province_FULL_Variables-PCA.pdf, id=161, 418.56375pt x 478.78876pt>
+<Pic/Province_FULL_Variables-PCA.pdf, id=134, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_Variables-PCA.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variables-PCA.pdf>
 Package pdftex.def Info: Pic/Province_FULL_Variables-PCA.pdf  used on input lin
-e 179.
+e 205.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 179--180
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 205--206
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Provinces_PCA_FULL.pdf, id=164, 418.56375pt x 478.78876pt>
+<Pic/Provinces_PCA_FULL.pdf, id=137, 418.56375pt x 478.78876pt>
 File: Pic/Provinces_PCA_FULL.pdf Graphic file (type pdf)
 <use Pic/Provinces_PCA_FULL.pdf>
-Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 187.
+Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 213.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 187--188
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 213--214
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] [11 <./Pic/Province_FULL_CorrMatrix.pdf>] [12 <./Pic/Province_FULL_Varianc
-es.pdf>] [13 <./Pic/Province_FULL_Variables-PCA.pdf>] [14 <./Pic/Provinces_PCA_
-FULL.pdf>]
-<Pic/Regions_CorrMatrix.pdf, id=218, 418.56375pt x 478.78876pt>
+[8] [9 <./Pic/Province_FULL_CorrMatrix.pdf>] [10 <./Pic/Province_FULL_Variances
+.pdf>] [11 <./Pic/Province_FULL_Variables-PCA.pdf>] [12 <./Pic/Provinces_PCA_FU
+LL.pdf>]
+<Pic/Regions_CorrMatrix.pdf, id=190, 418.56375pt x 478.78876pt>
 File: Pic/Regions_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Regions_CorrMatrix.pdf>
-Package pdftex.def Info: Pic/Regions_CorrMatrix.pdf  used on input line 203.
+Package pdftex.def Info: Pic/Regions_CorrMatrix.pdf  used on input line 229.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 203--204
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 229--230
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Region_variances.pdf, id=219, 418.56375pt x 478.78876pt>
+<Pic/Region_variances.pdf, id=191, 418.56375pt x 478.78876pt>
 File: Pic/Region_variances.pdf Graphic file (type pdf)
 <use Pic/Region_variances.pdf>
-Package pdftex.def Info: Pic/Region_variances.pdf  used on input line 212.
+Package pdftex.def Info: Pic/Region_variances.pdf  used on input line 238.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 212--213
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 238--239
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Regioni_PCA_loadings.pdf, id=220, 418.56375pt x 478.78876pt>
+<Pic/Regioni_PCA_loadings.pdf, id=192, 418.56375pt x 478.78876pt>
 File: Pic/Regioni_PCA_loadings.pdf Graphic file (type pdf)
 <use Pic/Regioni_PCA_loadings.pdf>
-Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 221.
+Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 247.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 221--222
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 247--248
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/Regions_FULL_PCA.pdf, id=223, 418.56375pt x 478.78876pt>
+<Pic/Regions_FULL_PCA.pdf, id=195, 418.56375pt x 478.78876pt>
 File: Pic/Regions_FULL_PCA.pdf Graphic file (type pdf)
 <use Pic/Regions_FULL_PCA.pdf>
-Package pdftex.def Info: Pic/Regions_FULL_PCA.pdf  used on input line 230.
+Package pdftex.def Info: Pic/Regions_FULL_PCA.pdf  used on input line 256.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 230--231
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 256--257
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15
+[13
 
-] [16 <./Pic/Regions_CorrMatrix.pdf>] [17 <./Pic/Region_variances.pdf>]
-[18 <./Pic/Regioni_PCA_loadings.pdf>] [19 <./Pic/Regions_FULL_PCA.pdf>]
-<Pic/CorrMatrix_WORLD.pdf, id=270, 418.56375pt x 478.78876pt>
+] [14 <./Pic/Regions_CorrMatrix.pdf>] [15 <./Pic/Region_variances.pdf>]
+[16 <./Pic/Regioni_PCA_loadings.pdf>] [17 <./Pic/Regions_FULL_PCA.pdf>]
+<Pic/CorrMatrix_WORLD.pdf, id=254, 418.56375pt x 478.78876pt>
 File: Pic/CorrMatrix_WORLD.pdf Graphic file (type pdf)
 <use Pic/CorrMatrix_WORLD.pdf>
-Package pdftex.def Info: Pic/CorrMatrix_WORLD.pdf  used on input line 243.
+Package pdftex.def Info: Pic/CorrMatrix_WORLD.pdf  used on input line 273.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 243--244
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 273--274
  [] 
  []
 
-<Pic/Variances-PCA_WORLD.pdf, id=271, 418.56375pt x 478.78876pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Pic/Variances-PCA_WORLD.pdf, id=255, 418.56375pt x 478.78876pt>
 File: Pic/Variances-PCA_WORLD.pdf Graphic file (type pdf)
 <use Pic/Variances-PCA_WORLD.pdf>
-Package pdftex.def Info: Pic/Variances-PCA_WORLD.pdf  used on input line 252.
+Package pdftex.def Info: Pic/Variances-PCA_WORLD.pdf  used on input line 282.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 252--253
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 282--283
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/PCA-Loadings_WORLD.pdf, id=272, 418.56375pt x 478.78876pt>
+<Pic/PCA-Loadings_WORLD.pdf, id=256, 418.56375pt x 478.78876pt>
 File: Pic/PCA-Loadings_WORLD.pdf Graphic file (type pdf)
 <use Pic/PCA-Loadings_WORLD.pdf>
-Package pdftex.def Info: Pic/PCA-Loadings_WORLD.pdf  used on input line 261.
+Package pdftex.def Info: Pic/PCA-Loadings_WORLD.pdf  used on input line 291.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 261--262
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 291--292
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Pic/World_FULLPCA.pdf, id=275, 418.56375pt x 478.78876pt>
+<Pic/World_FULLPCA.pdf, id=259, 418.56375pt x 478.78876pt>
 File: Pic/World_FULLPCA.pdf Graphic file (type pdf)
 <use Pic/World_FULLPCA.pdf>
-Package pdftex.def Info: Pic/World_FULLPCA.pdf  used on input line 270.
+Package pdftex.def Info: Pic/World_FULLPCA.pdf  used on input line 300.
 (pdftex.def)             Requested size: 418.56271pt x 478.78758pt.
 
-Overfull \hbox (48.56271pt too wide) in paragraph at lines 270--271
+Overfull \hbox (48.56271pt too wide) in paragraph at lines 300--301
  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20
+[18
 
- <./Pic/CorrMatrix_WORLD.pdf>] [21 <./Pic/Variances-PCA_WORLD.pdf>] [22 <./Pic/
-PCA-Loadings_WORLD.pdf>] [23 <./Pic/World_FULLPCA.pdf>] (Manuscript.bbl
-Underfull \hbox (badness 1552) in paragraph at lines 14--18
-[]\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
- []
+] [19 <./Pic/CorrMatrix_WORLD.pdf>] [20 <./Pic/Variances-PCA_WORLD.pdf>]
+[21 <./Pic/PCA-Loadings_WORLD.pdf>] [22 <./Pic/World_FULLPCA.pdf>]
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 32
+2.
 
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 33
-.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/bera\t1fvm.fd"
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 10.20007pt on input line 33.
+(Font)              scaled to size 9.30756pt on input line 322.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Overfull \hbox (60.01262pt too wide) in paragraph at lines 325--327
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[] 
+ []
+
+
+Overfull \hbox (15.33598pt too wide) in paragraph at lines 329--331
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+[23
+
+]
+Overfull \hbox (32.08972pt too wide) in paragraph at lines 368--370
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][] 
+ []
+
+[24]
+Overfull \hbox (15.33598pt too wide) in paragraph at lines 388--389
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.7514pt too wide) in paragraph at lines 397--398
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.33598pt too wide) in paragraph at lines 413--414
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[25] (Manuscript.bbl
+Underfull \hbox (badness 1552) in paragraph at lines 14--18
+[]\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 10.20007pt on input line 33.
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--59
 []\T1/pplj/m/n/12 Ministero dell'Economia e delle Fi-nanze.  [][]$\T1/fvm/m/n/1
@@ -1135,7 +1246,7 @@ Overfull \hbox (42.26834pt too wide) in paragraph at lines 55--59
 vince-[]italiane$[][]\T1/pplj/m/n/12 ,
  []
 
-
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 61--65
 \T1/fvm/m/n/12 documentazione / p6 _ 2 _ 2 _ 1 . jsp ? lingua = italiano & id =
  2879$[][]\T1/pplj/m/n/12 ,
@@ -1147,54 +1258,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--70
 0 &
  []
 
-[24
 
-]
 Underfull \hbox (badness 10000) in paragraph at lines 72--75
 \T1/fvm/m/n/12 lea / dettaglioContenutiLea . jsp ? lingua = italiano & id = 474
 7 &
  []
 
-
+[27]
 Underfull \hbox (badness 2809) in paragraph at lines 133--135
 []\T1/pplj/m/n/12 Roberto Galullo and An-gelo Min-cuzzi.  [][]$\T1/fvm/m/n/12 h
 ttps : / / 24plus .
  []
 
-) [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
+) [28]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 456.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 456.
  (Manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 299.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 299.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 456.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 456.
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 299.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 456.
  ) 
 Here is how much of TeX's memory you used:
- 16479 strings out of 481212
- 310431 string characters out of 2913848
- 756472 words of memory out of 3000000
- 31585 multiletter control sequences out of 15000+200000
- 637808 words of font info for 172 fonts, out of 3000000 for 9000
+ 19313 strings out of 481212
+ 346816 string characters out of 2913848
+ 835510 words of memory out of 3000000
+ 34258 multiletter control sequences out of 15000+200000
+ 639935 words of font info for 179 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,23n,102p,10634b,838s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 67i,23n,97p,10634b,2778s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/iwona/ec-iwona.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/euler/euex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/eul
-er/eufm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eu
-rm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki
-/iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (25 pages, 303960 bytes).
+s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/
+euex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eufm1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/i
+wonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Manuscript.pdf (28 pages, 337504 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 75 named destinations out of 1000 (max. 500000)
- 38541 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 601 PDF objects out of 1000 (max. 8388607)
+ 197 named destinations out of 1000 (max. 500000)
+ 39069 words of extra memory for PDF output out of 42996 (max. 10000000)
 
