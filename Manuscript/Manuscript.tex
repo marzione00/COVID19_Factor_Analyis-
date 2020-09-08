@@ -117,6 +117,15 @@ At last on all Pandion's folk it swooped \\
 
 
 \newpage
+
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT
+%----------------------------------------------------------------------------------------
+
+\section*{Abstract} % This section will not appear in the table of contents due to the star (\section*)
+The anisotropic spread of the virus \textit{SARS-CoV-2} raised a scientific challenge about the features that prevent or instead increase its diffusion. In order to get a bird's-eye view on this issue a principal component analysis (PCA) was performed on the following clusters: the Italian provinces, the Italian regions, and a selected set of 150 countries. This allowed to investigate the disease diffusion not only for a clusters sets of different sizes, but also with different features since, in principle the indices that are available for a set of provinces are different with respect to the ones that are available for a set of countries. It was found that while some features such as the mean income, the GDP and the public transport are positively correlated with a higher number of COVID19 cases, due to the fact that they increase the connectivity of the agents, others that limit the latter, as the unemployment slow the diffusion. Moreover we found that, concerning the health service, the most important factor that is negatively correlated with the COVID19 cases is the normalized number of general practitioner and their normalized number of visits, while a less important role is played by the health quality indices.
+
 \nocite{*}
 \setcounter{tocdepth}{2} % Set the depth of the table of contents to show sections and subsections only
 
@@ -125,13 +134,6 @@ At last on all Pandion's folk it swooped \\
 %\listoffigures % Print the list of figures
 
 %\listoftables % Print the list of tables
-
-%----------------------------------------------------------------------------------------
-%	ABSTRACT
-%----------------------------------------------------------------------------------------
-
-\section*{Abstract} % This section will not appear in the table of contents due to the star (\section*)
-
 
 
 \newpage % Start the article content on the second page, remove this if you have a longer abstract that goes onto the second page
@@ -264,7 +266,7 @@ Looking to the Fig. \ref{Regions_CorrMatrix},\ref{Regioni_PCA_loadings} and \ref
 
 \subsection{Countries}
 
-For this dataset it is possible to see from the inspection of Fig. \ref{World_CorrMatrix}, \ref{World_PCA_loadings} and \ref{World_FULL_PCA} that among the different features considered for the countries only the GDP seems to be statistically correlated with the cases and the deaths. This fact can be explained with the same argument discussed in the section \ref{sub_prov}. In principle a possible objection to this link can be that only the richest countries can invest money for the tests for the validation of a COVID19 case: however it can be noted from plots that the normalized health expenditure as well the UHC index are basically orthogonal with respect to the normalized COVID19 cases and deaths. Moreover it is rummy, on the basis of recent papers , to find that the COVID cases and deaths are orthogonal to the pollution: this fact may be ascribed to the fact that the a smaller cluster should be considered; however it is worth nothing that in the literature the a strong causal relation is far from being validated \cite{contini2020does}. Finally, from the inspection of Fig. \ref{World_variances}, it is possibile to point out that the in the 2D plots \ref{Regioni_PCA_loadings} and \ref{Regions_FULL_PCA} the percentage of variance reported is almost the 58 $ \% $ while the 42 $ \% $ is lost.
+For this dataset it is possible to see from the inspection of Fig. \ref{World_CorrMatrix}, \ref{World_PCA_loadings} and \ref{World_FULL_PCA} that among the different features considered for the countries only the GDP pro-capita seems to be statistically correlated with the cases and the deaths. This fact can be explained with the same argument discussed in the section \ref{sub_prov}. In principle a possible objection to this link can be that only the richest countries can invest money for the tests for the validation of a COVID19 case: however it can be noted from plots that the normalized health expenditure as well the UHC index are basically orthogonal with respect to the normalized COVID19 cases and deaths. Moreover it is rummy, on the basis of recent papers , to find that the COVID cases and deaths are orthogonal to the pollution: this fact may be ascribed to the fact that the a smaller cluster should be considered; however it is worth nothing that in the literature the a strong causal relation is far from being validated \cite{contini2020does}. Finally, from the inspection of Fig. \ref{World_variances}, it is possibile to point out that the in the 2D plots \ref{Regioni_PCA_loadings} and \ref{Regions_FULL_PCA} the percentage of variance reported is almost the 58 $ \% $ while the 42 $ \% $ is lost.
 
 
 
@@ -312,7 +314,7 @@ For this dataset it is possible to see from the inspection of Fig. \ref{World_Co
 The analysis of the features of the different clusters pinpointed the following features: 
 
 \begin{itemize}
-\item The normalized number of cases and deaths for COVID19 are positively correlated for all cluster with the mean income. As validated by the previous literature (see the subsection \ref{sub_prov}) , this relation is causal due to the fact a higher income increase the connectivity of the agents
+\item The normalized number of cases and deaths for COVID19 are positively correlated for provinces and regios with the mean income, while for the country the same argument hold for the GDP pro-capita. As validated by the previous literature (see the subsection \ref{sub_prov}) , this relation is causal due to the fact a higher income increase the connectivity of the agents
 \item The unemployment is negatively correlated with the number of cases and deaths: this effect is entangled with the mean income; thus for a deeper analysis on the causal relationship, an econometric research that disentangle the mean income and the employment is required. 
 \item The spread of COVID19 does not seems to be negatively correlated with the quality and quantity of hospitals (LEA, UHC, Number of public structure), in reverse the number of general practitioner and their visit is negatively correlated with the number of cases and deaths. This can be due to the fact the a large number of normalized general practitioner are able to detect and isolate the infected agents, and this slows the spread of a disease. However a deeper analysis on this statical correlation is required in order support this argument. 
 \item The public transport is positively correlated with the normalized new cases: the causal reason for this is that the agents during the travel increase their interactions with other agents thus the probability to be infected is higher
