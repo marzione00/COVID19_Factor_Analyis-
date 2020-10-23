@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  22 OCT 2020 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  23 OCT 2020 11:18
 entering extended mode
 **./Manuscript.tex
 (Manuscript.tex
@@ -1170,64 +1170,27 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] [19 <./Pic/CorrMatrix_WORLD.pdf>] [20 <./Pic/Variances-PCA_WORLD.pdf>]
 [21 <./Pic/PCA-Loadings_WORLD.pdf>] [22 <./Pic/World_FULLPCA.pdf>]
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 32
-9.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 33
+1.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/bera\t1fvm.fd"
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 329.
+(Font)              scaled to size 10.20007pt on input line 331.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (15.33598pt too wide) in paragraph at lines 335--337
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][] 
- []
-
+ (R_code_unsup.R
 [23
 
-]
-Overfull \hbox (9.7514pt too wide) in paragraph at lines 369--371
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (32.08972pt too wide) in paragraph at lines 373--375
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][] 
- []
-
-[24]
-Overfull \hbox (15.33598pt too wide) in paragraph at lines 393--394
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (9.7514pt too wide) in paragraph at lines 402--403
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (15.33598pt too wide) in paragraph at lines 418--419
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][] 
- []
-
-[25] (Manuscript.bbl
+] [24] [25]) (Manuscript.bbl
 Underfull \hbox (badness 1552) in paragraph at lines 14--18
 []\T1/pplj/m/n/12 Abiel Seb-hatu, Karl Wennberg, Ste-fan Arora-Jonsson, and
  []
 
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 10.20007pt on input line 33.
-
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 55--59
 []\T1/pplj/m/n/12 Ministero dell'Economia e delle Fi-nanze.  [][]$\T1/fvm/m/n/1
 2 https :
@@ -1245,7 +1208,7 @@ Overfull \hbox (42.26834pt too wide) in paragraph at lines 55--59
 vince-[]italiane$[][]\T1/pplj/m/n/12 ,
  []
 
-[26]
+
 Underfull \hbox (badness 10000) in paragraph at lines 61--65
 \T1/fvm/m/n/12 documentazione / p6 _ 2 _ 2 _ 1 . jsp ? lingua = italiano & id =
  2879$[][]\T1/pplj/m/n/12 ,
@@ -1270,40 +1233,41 @@ ttps : / / 24plus .
  []
 
 ) [28]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 461.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 461.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
  (Manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 461.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 461.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 Package rerunfilecheck Info: File `Manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 461.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 348.
  ) 
 Here is how much of TeX's memory you used:
- 19355 strings out of 481212
- 347561 string characters out of 2913848
- 830659 words of memory out of 3000000
- 34292 multiletter control sequences out of 15000+200000
- 646911 words of font info for 187 fonts, out of 3000000 for 9000
+ 19320 strings out of 481212
+ 347022 string characters out of 2913848
+ 1101838 words of memory out of 3000000
+ 34312 multiletter control sequences out of 15000+200000
+ 646291 words of font info for 185 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 67i,23n,97p,10634b,2778s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,23n,100p,10634b,2892s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/Mi
 KTeX 2.9/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{C:/Program Files/MiKTeX 2.9/fon
 ts/enc/dvips/iwona/ec-iwona.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/
-euex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eufm1
-0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/bera/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/i
-wonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Manuscript.pdf (28 pages, 341835 bytes).
+s/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/euex10.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eufm10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/fpl/fplrij8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/b
+era/fvmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonab.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonar.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Manuscript.pdf (28 pages, 343435 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 40101 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 547 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 39589 words of extra memory for PDF output out of 42996 (max. 10000000)
 
