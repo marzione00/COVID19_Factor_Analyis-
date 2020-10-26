@@ -1,9 +1,18 @@
-\documentclass{beamer}
+\documentclass[compress]{beamer}
 
 \usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{varwidth}
 
-\usetheme{Madrid}
+\useoutertheme{miniframes}
+
+
+\usetheme[progressbar=frametitle]{Madrid}
+\usefonttheme{professionalfonts}
+\setbeamertemplate{itemize items}[triangle]
+\setbeamertemplate{enumerate items}[default]
 \usecolortheme{beaver}
+
 %Information to be included in the title page:
 
 \title[COVID-19 - Unsupervised Learning]{A statistical analysis on factors that contributed/slowed down the spread of COVID-19}
@@ -17,16 +26,19 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 
 \frame{\titlepage}
 
+\section{Intro}
+
 \begin{frame}
 \frametitle{Overview}
 \textbf{FINAL GOAL}: Survey the statistical correlations between the COVID-19 cases/deaths and a selected set of attributes for different clusters via the principal component analysis
 
 \end{frame}
 
-\begin{frame}
+\section{Data}
 
-\begin{columns}
+\begin{frame}
 \frametitle{Cluster features}
+\begin{columns}
 \column{0.3\textwidth}
 \textbf{Provices (IT)}
 \begin{itemize}
@@ -73,9 +85,135 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 \newline
 \textbf{SOURCES}: Protezione Civile, Istituto Italiano di Statistica, Ministro delle Finanze, Ministro della Salute, World Health Organization and World Bank 
 
+\end{frame}
 
+\begin{frame}
+\frametitle{Provinces}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}{.6\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/Province_FULL_CorrMatrix.pdf}
+\end{minipage}%
+\begin{minipage}{.3\textwidth}
+  \centering
+  \includegraphics[width=\linewidth,]{Pic/Province_FULL_Variances.pdf}
+\end{minipage}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+
+
+\frametitle{Provinces}
+
+
+\begin{figure}[H]
+\centering
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/Province_FULL_Variables-PCA.pdf}
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=\linewidth,]{Pic/Provinces_PCA_FULL.pdf}
+\end{minipage}
+\end{figure}
 
 \end{frame}
+
+\begin{frame}
+
+
+\frametitle{Provinces}
+
+\begin{columns}
+\column{0.5\textwidth}
+\begin{figure}[H]
+\centering
+\begin{minipage}{\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/Province_FULL_Variables-PCA.pdf}
+\end{minipage}%
+\end{figure}
+\column{0.5\textwidth}
+\begin{itemize}
+\item The public transport, the density, the normalized cumulative cases and the mean income are positively correlated
+\item This can be explained by the fact that a higher density, a higher public transport demand and a higher income increase the rate of contact between the individuals
+\item Rich people can spend more money for social events or perhaps in to travels thus they increase their connectivity (the opposite happens for the unemployment)
+\end{itemize}
+\end{columns}
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Regions}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}{.6\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/Regions_CorrMatrix.pdf}
+\end{minipage}%
+\begin{minipage}{.3\textwidth}
+  \centering
+  \includegraphics[width=\linewidth,]{Pic/Region_variances.pdf}
+\end{minipage}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Regions}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/Regioni_PCA_loadings.pdf}
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=\linewidth,]{Pic/Regions_FULL_PCA.pdf}
+\end{minipage}
+\end{figure}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Countries}
+\begin{figure}[H]
+\centering
+\begin{minipage}{.6\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/CorrMatrix_WORLD.pdf}
+\end{minipage}%
+\begin{minipage}{.3\textwidth}
+  \centering
+  \includegraphics[width=\linewidth,]{Pic/Variances-PCA_WORLD.pdf}
+\end{minipage}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Countries}
+\begin{figure}[H]
+\centering
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/PCA-Loadings_WORLD.pdf}
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=\linewidth,]{Pic/World_FULLPCA.pdf}
+\end{minipage}
+\end{figure}
+\end{frame}
+
+
+
+
 
 
 
