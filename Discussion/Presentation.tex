@@ -1,0 +1,82 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+
+\usetheme{Madrid}
+\usecolortheme{beaver}
+%Information to be included in the title page:
+
+\title[COVID-19 - Unsupervised Learning]{A statistical analysis on factors that contributed/slowed down the spread of COVID-19}
+
+\author{Marzio De Corato}
+
+\subtitle{Project for the exam: Machine learning, statistical
+learning, deep learning and artificial intelligence - Unsupervised Learning}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+\frametitle{Overview}
+\textbf{FINAL GOAL}: Survey the statistical correlations between the COVID-19 cases/deaths and a selected set of attributes for different clusters via the principal component analysis
+
+\end{frame}
+
+\begin{frame}
+
+\begin{columns}
+\frametitle{Cluster features}
+\column{0.3\textwidth}
+\textbf{Provices (IT)}
+\begin{itemize}
+\item Unemployment '19
+\item Private Transport '12 
+\item Air Quality '19
+\item Public Transport '12
+\item Density '19
+\item Mean income '19
+\end{itemize}
+\column{0.3\textwidth}
+\textbf{Regions (IT)}
+\begin{itemize}
+\item Mortality
+\item Pop. for GP
+\item Mean Income '19
+\item Number of Visits for Pop. '17
+\item Public Transport 
+\item Density '19
+\item Mean income '19
+\item Tests 
+\item LEA '17
+\item Number of visit '17
+\item Public structures '17
+\end{itemize}
+\column{0.3\textwidth}
+\textbf{Countries}
+\begin{itemize}
+\item PM$_{2.5}$ '16
+\item Traffic Mortality '16
+\item Pollution Mortality '16
+\item GDP pro-capita '19
+\item Health expenditure '17
+\item UHC '17
+\end{itemize}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{Datasets features }
+
+\textbf{TEMPORAL INTERVAL}: Provinces up to 24/08/2020; Regions up to 24/08/2020; Countries up to 27/08/2020 
+\newline
+\newline
+\textbf{SOURCES}: Protezione Civile, Istituto Italiano di Statistica, Ministro delle Finanze, Ministro della Salute, World Health Organization and World Bank 
+
+
+
+\end{frame}
+
+
+
+\end{document}
