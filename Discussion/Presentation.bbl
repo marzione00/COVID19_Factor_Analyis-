@@ -1,0 +1,177 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{24plus}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=GR}{%
+         family={Galullo},
+         familyi={G\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mincuzzi},
+         familyi={M\bibinitperiod},
+         given={Angelo},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GRMA1}
+    \strng{fullhash}{GRMA1}
+    \field{labelnamesource}{author}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{howpublished}{\url{https://24plus.ilsole24ore.com/art/ADMIadK}}
+  \endentry
+
+  \entry{world2010hidden}{book}{}
+    \name{author}{2}{}{%
+      {{hash=fHDWHOC}{%
+         prefix={for},
+         prefixi={f\bibinitperiod},
+         family={Health\bibnamedelima Development},
+         familyi={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={World Health Organization.\bibnamedelima Centre},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  O\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=OWH}{%
+         family={Organization},
+         familyi={O\bibinitperiod},
+         given={World\bibnamedelima Health},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {World Health Organization}%
+    }
+    \strng{namehash}{HDWHOCfOWH1}
+    \strng{fullhash}{HDWHOCfOWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Hidden cities: unmasking and overcoming health inequities in
+  urban settings}
+    \field{year}{2010}
+  \endentry
+
+  \entry{neiderud2015urbanization}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NCJ}{%
+         family={Neiderud},
+         familyi={N\bibinitperiod},
+         given={Carl-Johan},
+         giveni={C\bibinithyphendelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{NCJ1}
+    \strng{fullhash}{NCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{1}
+    \field{pages}{27060}
+    \field{title}{How urbanization affects the epidemiology of emerging
+  infectious diseases}
+    \field{volume}{5}
+    \field{journaltitle}{Infection ecology \& epidemiology}
+    \field{year}{2015}
+  \endentry
+
+  \entry{weyers2008low}{article}{}
+    \name{author}{9}{}{%
+      {{hash=WS}{%
+         family={Weyers},
+         familyi={W\bibinitperiod},
+         given={Simone},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Dragano},
+         familyi={D\bibinitperiod},
+         given={Nico},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={M{\"o}bus},
+         familyi={M\bibinitperiod},
+         given={Susanne},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BEM}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={Eva-Maria},
+         giveni={E\bibinithyphendelim M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Stang},
+         familyi={S\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={M{\"o}hlenkamp},
+         familyi={M\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JKH}{%
+         family={J{\"o}ckel},
+         familyi={J\bibinitperiod},
+         given={Karl\bibnamedelima Heinz},
+         giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=ER}{%
+         family={Erbel},
+         familyi={E\bibinitperiod},
+         given={Raimund},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Siegrist},
+         familyi={S\bibinitperiod},
+         given={Johannes},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{WS+1}
+    \strng{fullhash}{WSDNMSBEMSAMSJKHERSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{1}
+    \field{pages}{13}
+    \field{title}{Low socio-economic position is associated with poor social
+  networks and social support: results from the Heinz Nixdorf Recall Study}
+    \field{volume}{7}
+    \field{journaltitle}{International Journal for Equity in Health}
+    \field{year}{2008}
+  \endentry
+\enddatalist
+\endinput

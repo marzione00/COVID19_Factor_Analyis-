@@ -3,6 +3,11 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{varwidth}
+\usepackage{beamerthemesplit} 
+
+\usepackage[english]{babel}
+\usepackage[backend=bibtex]{biblatex}
+\addbibresource{bibliography.bib}
 
 \useoutertheme{miniframes}
 
@@ -30,7 +35,10 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 
 \begin{frame}
 \frametitle{Overview}
-\textbf{FINAL GOAL}: Survey the statistical correlations between the COVID-19 cases/deaths and a selected set of attributes for different clusters via the principal component analysis
+\textbf{FINAL GOAL}: Survey the statistical correlations between the COVID-19 cases/deaths and a selected set of attributes for different clusters via the principal component analysis 
+\newline
+\newline
+\textbf{CLUSTERS}: Provinces (IT), Regions (IT), Countries
 
 \end{frame}
 
@@ -126,7 +134,7 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 \begin{frame}
 
 
-\frametitle{Provinces}
+\frametitle{Provinces - Conclusions}
 
 \begin{columns}
 \column{0.5\textwidth}
@@ -140,8 +148,8 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 \column{0.5\textwidth}
 \begin{itemize}
 \item The public transport, the density, the normalized cumulative cases and the mean income are positively correlated
-\item This can be explained by the fact that a higher density, a higher public transport demand and a higher income increase the rate of contact between the individuals
-\item Rich people can spend more money for social events or perhaps in to travels thus they increase their connectivity (the opposite happens for the unemployment)
+\item A higher density, a higher public transport demand and a higher income increase the rate of contact between the individuals \cite{neiderud2015urbanization,world2010hidden}
+\item Rich people can spend more money for social events or perhaps in to travels thus they increase their connectivity (the opposite happens for the unemployment)\cite{weyers2008low}
 \end{itemize}
 \end{columns}
 \end{frame}
@@ -182,6 +190,28 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 
 
 \begin{frame}
+\frametitle{Regions - Conclusions}
+\begin{columns}
+\column{0.5\textwidth}
+\begin{figure}[H]
+\centering
+\begin{minipage}{\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/Regioni_PCA_loadings.pdf}
+\end{minipage}%
+\end{figure}
+\column{0.5\textwidth}
+\begin{itemize}
+\item Positive correlation between the number of people for general practitioner(GP) and the number of cases
+\item A higher number of normalized visit is negatively correlated with the number of cases and the mortality
+\item The GP play the role of sensor for the COVID-19 cases:if their number and their presence is reduced, the health service is less sensitive to find new cases and the diffusion of the virus is favoured \cite{24plus}
+
+\end{itemize}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}
 \frametitle{Countries}
 \begin{figure}[H]
 \centering
@@ -211,10 +241,33 @@ learning, deep learning and artificial intelligence - Unsupervised Learning}
 \end{figure}
 \end{frame}
 
+\begin{frame}
+\frametitle{Countries - Conclusions}
+\begin{columns}
+\column{0.5\textwidth}
+\begin{figure}[H]
+\centering
+\begin{minipage}{\textwidth}
+  \centering
+  \includegraphics[width=\linewidth, ]{Pic/PCA-Loadings_WORLD.pdf}
+\end{minipage}%
+\end{figure}
+\column{0.5\textwidth}
+\begin{itemize}
+\item The GDP pro-capita seems to be statistically correlated with the cases and the deaths
+\item A possible objection to this link can be that only the richest countries can invest money
+for the tests for the validation of a COVID19 case: however it can be noted from plots that the normalized health expenditure as well the UHC index are basically orthogonal with respect to the normalized COVID19 cases and deaths
+\end{itemize}
+\end{columns}
+\end{frame}
 
 
 
 
 
+\begin{frame}[t,allowframebreaks]
+\frametitle{References}
+\printbibliography
+\end{frame}
 
 \end{document}

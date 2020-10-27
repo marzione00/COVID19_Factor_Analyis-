@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  26 OCT 2020 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.27)  27 OCT 2020 10:57
 entering extended mode
 **./Presentation.tex
 (Presentation.tex
@@ -661,39 +661,309 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen277
 \@vwid@roff=\dimen278
 )
+("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerthemesplit.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamercolorthemewhale.sty")
+("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerouterthemesplit.sty")
+("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerfontthemestructurebold.sty
+")) ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/07/13 3.47 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/07/13 3.47 Babel common definitions
+\babel@savecnt=\count312
+\U@D=\dimen279
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read3
+)
+LaTeX Info: Redefining \textlatin on input line 682.
+\bbl@dirlevel=\count313
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count314
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count315
+\c@listtotal=\count316
+\c@listcount=\count317
+\c@liststart=\count318
+\c@liststop=\count319
+\c@citecount=\count320
+\c@citetotal=\count321
+\c@multicitecount=\count322
+\c@multicitetotal=\count323
+\c@instcount=\count324
+\c@maxnames=\count325
+\c@minnames=\count326
+\c@maxitems=\count327
+\c@minitems=\count328
+\c@citecounter=\count329
+\c@maxcitecounter=\count330
+\c@savedcitecounter=\count331
+\c@uniquelist=\count332
+\c@uniquename=\count333
+\c@refsection=\count334
+\c@refsegment=\count335
+\c@maxextratitle=\count336
+\c@maxextratitleyear=\count337
+\c@maxextraname=\count338
+\c@maxextradate=\count339
+\c@maxextraalpha=\count340
+\c@abbrvpenalty=\count341
+\c@highnamepenalty=\count342
+\c@lownamepenalty=\count343
+\c@maxparens=\count344
+\c@parenlevel=\count345
+\blx@tempcnta=\count346
+\blx@tempcntb=\count347
+\blx@tempcntc=\count348
+\blx@maxsection=\count349
+\blx@maxsegment@0=\count350
+\blx@notetype=\count351
+\blx@parenlevel@text=\count352
+\blx@parenlevel@foot=\count353
+\blx@sectionciteorder@0=\count354
+\blx@entrysetcounter=\count355
+\labelnumberwidth=\skip63
+\labelalphawidth=\skip64
+\biblabelsep=\skip65
+\bibitemsep=\skip66
+\bibnamesep=\skip67
+\bibinitsep=\skip68
+\bibparsep=\skip69
+\bibhang=\skip70
+\blx@bcfin=\read4
+\blx@bcfout=\write5
+\blx@langwohyphens=\language80
+\c@mincomprange=\count356
+\c@maxcomprange=\count357
+\c@mincompwidth=\count358
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count359
+\c@savedafterword=\count360
+\c@annotator=\count361
+\c@savedannotator=\count362
+\c@author=\count363
+\c@savedauthor=\count364
+\c@bookauthor=\count365
+\c@savedbookauthor=\count366
+\c@commentator=\count367
+\c@savedcommentator=\count368
+\c@editor=\count369
+\c@savededitor=\count370
+\c@editora=\count371
+\c@savededitora=\count372
+\c@editorb=\count373
+\c@savededitorb=\count374
+\c@editorc=\count375
+\c@savededitorc=\count376
+\c@foreword=\count377
+\c@savedforeword=\count378
+\c@holder=\count379
+\c@savedholder=\count380
+\c@introduction=\count381
+\c@savedintroduction=\count382
+\c@namea=\count383
+\c@savednamea=\count384
+\c@nameb=\count385
+\c@savednameb=\count386
+\c@namec=\count387
+\c@savednamec=\count388
+\c@translator=\count389
+\c@savedtranslator=\count390
+\c@shortauthor=\count391
+\c@savedshortauthor=\count392
+\c@shorteditor=\count393
+\c@savedshorteditor=\count394
+\c@labelname=\count395
+\c@savedlabelname=\count396
+\c@institution=\count397
+\c@savedinstitution=\count398
+\c@lista=\count399
+\c@savedlista=\count400
+\c@listb=\count401
+\c@savedlistb=\count402
+\c@listc=\count403
+\c@savedlistc=\count404
+\c@listd=\count405
+\c@savedlistd=\count406
+\c@liste=\count407
+\c@savedliste=\count408
+\c@listf=\count409
+\c@savedlistf=\count410
+\c@location=\count411
+\c@savedlocation=\count412
+\c@organization=\count413
+\c@savedorganization=\count414
+\c@origlocation=\count415
+\c@savedoriglocation=\count416
+\c@origpublisher=\count417
+\c@savedorigpublisher=\count418
+\c@publisher=\count419
+\c@savedpublisher=\count420
+\c@language=\count421
+\c@savedlanguage=\count422
+\c@origlanguage=\count423
+\c@savedoriglanguage=\count424
+\c@pageref=\count425
+\c@savedpageref=\count426
+\shorthandwidth=\skip71
+\shortjournalwidth=\skip72
+\shortserieswidth=\skip73
+\shorttitlewidth=\skip74
+\shortauthorwidth=\skip75
+\shorteditorwidth=\skip76
+\locallabelnumberwidth=\skip77
+\locallabelalphawidth=\skip78
+\localshorthandwidth=\skip79
+\localshortjournalwidth=\skip80
+\localshortserieswidth=\skip81
+\localshorttitlewidth=\skip82
+\localshortauthorwidth=\skip83
+\localshorteditorwidth=\skip84
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-bibtex.def"
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count427
+\c@textcitetotal=\count428
+\c@textcitemaxnames=\count429
+\c@biburlbigbreakpenalty=\count430
+\c@biburlbreakpenalty=\count431
+\c@biburlnumpenalty=\count432
+\c@biburlucpenalty=\count433
+\c@biburllcpenalty=\count434
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count435
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric.bbx"
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count436
+\c@bbx:relatedtotal=\count437
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric.cbx"
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerouterthememiniframes.sty")
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerthemeMadrid.sty"
-("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamercolorthemewhale.sty")
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamercolorthemeorchid.sty")
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerinnerthemerounded.sty")
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerouterthemeinfolines.sty"))
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamerfontthemeprofessionalfonts
 .sty") ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamercolorthemebeaver.st
-y") ("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+y")
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count438
+\@quotereset=\count439
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count312
+\l__kernel_color_stack_int=\count440
 \l__pdf_internal_box=\box74
 )
 (Presentation.aux)
 \openout1 = `Presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -731,16 +1001,16 @@ LaTeX Font Info:    ... okay on input line 25.
 
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen279
+\scratchcounter=\count441
+\scratchdimen=\dimen280
 \scratchbox=\box75
-\nofMPsegments=\count314
-\nofMParguments=\count315
+\nofMPsegments=\count442
+\nofMParguments=\count443
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen280
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
+\MPscratchCnt=\count444
+\MPscratchDim=\dimen281
+\MPnumerator=\count445
+\makeMPintoPDFobject=\count446
 \everyMPtoPDFconversion=\toks47
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -749,7 +1019,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box76
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -760,15 +1030,15 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count319
+\c@section@level=\count447
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (Presentation.out) (Presentation.out)
-\@outlinefile=\write5
-\openout5 = `Presentation.out'.
+\@outlinefile=\write6
+\openout6 = `Presentation.out'.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-basic-dictionary-
@@ -794,24 +1064,45 @@ Dictionary: translator-numbers-dictionary, Language: English
 ("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-theorem-dictionar
 y-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-) (Presentation.nav) [1
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `Presentation-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Presentation.bbl' found.
+
+(Presentation.bbl)
+Package biblatex Info: Reference section=0 on input line 30.
+Package biblatex Info: Reference segment=0 on input line 30.
+ (Presentation.nav) [1
 
 {C:/Users/Marzio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \vbox (2.54199pt too high) detected at line 78
+Overfull \vbox (2.8128pt too high) detected at line 86
  []
 
 [3
@@ -819,35 +1110,35 @@ Overfull \vbox (2.54199pt too high) detected at line 78
 ] [4
 
 ]
-<Pic/Province_FULL_CorrMatrix.pdf, id=141, 418.56375pt x 478.78876pt>
+<Pic/Province_FULL_CorrMatrix.pdf, id=144, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_CorrMatrix.pdf>
 Package pdftex.def Info: Pic/Province_FULL_CorrMatrix.pdf  used on input line 1
-04.
+12.
 (pdftex.def)             Requested size: 205.37926pt x 234.93pt.
-<Pic/Province_FULL_Variances.pdf, id=142, 418.56375pt x 478.78876pt>
+<Pic/Province_FULL_Variances.pdf, id=145, 418.56375pt x 478.78876pt>
 File: Pic/Province_FULL_Variances.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variances.pdf>
-Package pdftex.def Info: Pic/Province_FULL_Variances.pdf  used on input line 10
-4.
+Package pdftex.def Info: Pic/Province_FULL_Variances.pdf  used on input line 11
+2.
 (pdftex.def)             Requested size: 102.68962pt x 117.46133pt.
 
-Overfull \vbox (13.8594pt too high) detected at line 104
+Overfull \vbox (14.13022pt too high) detected at line 112
  []
 
 [5
 
  <./Pic/Province_FULL_CorrMatrix.pdf> <./Pic/Province_FULL_Variances.pdf>]
-<Pic/Province_FULL_Variables-PCA.pdf, id=180, 438.63875pt x 403.5075pt>
+<Pic/Province_FULL_Variables-PCA.pdf, id=183, 438.63875pt x 403.5075pt>
 File: Pic/Province_FULL_Variables-PCA.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variables-PCA.pdf>
 Package pdftex.def Info: Pic/Province_FULL_Variables-PCA.pdf  used on input lin
-e 124.
+e 132.
 (pdftex.def)             Requested size: 171.14764pt x 157.44118pt.
-<Pic/Provinces_PCA_FULL.pdf, id=181, 418.56375pt x 478.78876pt>
+<Pic/Provinces_PCA_FULL.pdf, id=184, 418.56375pt x 478.78876pt>
 File: Pic/Provinces_PCA_FULL.pdf Graphic file (type pdf)
 <use Pic/Provinces_PCA_FULL.pdf>
-Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 124.
+Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 132.
 (pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
 
 [6
@@ -856,110 +1147,127 @@ Package pdftex.def Info: Pic/Provinces_PCA_FULL.pdf  used on input line 124.
 File: Pic/Province_FULL_Variables-PCA.pdf Graphic file (type pdf)
 <use Pic/Province_FULL_Variables-PCA.pdf>
 Package pdftex.def Info: Pic/Province_FULL_Variables-PCA.pdf  used on input lin
-e 147.
+e 155.
 (pdftex.def)             Requested size: 171.14764pt x 157.44118pt.
-
-Overfull \vbox (0.267pt too high) detected at line 147
- []
 
 [7
 
 ]
-<Pic/Regions_CorrMatrix.pdf, id=246, 418.56375pt x 478.78876pt>
+<Pic/Regions_CorrMatrix.pdf, id=255, 418.56375pt x 478.78876pt>
 File: Pic/Regions_CorrMatrix.pdf Graphic file (type pdf)
 <use Pic/Regions_CorrMatrix.pdf>
-Package pdftex.def Info: Pic/Regions_CorrMatrix.pdf  used on input line 165.
+Package pdftex.def Info: Pic/Regions_CorrMatrix.pdf  used on input line 173.
 (pdftex.def)             Requested size: 205.37926pt x 234.93pt.
-<Pic/Region_variances.pdf, id=247, 418.56375pt x 478.78876pt>
+<Pic/Region_variances.pdf, id=256, 418.56375pt x 478.78876pt>
 File: Pic/Region_variances.pdf Graphic file (type pdf)
 <use Pic/Region_variances.pdf>
-Package pdftex.def Info: Pic/Region_variances.pdf  used on input line 165.
+Package pdftex.def Info: Pic/Region_variances.pdf  used on input line 173.
 (pdftex.def)             Requested size: 102.68962pt x 117.46133pt.
 
-Overfull \vbox (13.8594pt too high) detected at line 165
+Overfull \vbox (14.13022pt too high) detected at line 173
  []
 
 [8
 
  <./Pic/Regions_CorrMatrix.pdf> <./Pic/Region_variances.pdf>]
-<Pic/Regioni_PCA_loadings.pdf, id=285, 418.56375pt x 478.78876pt>
+<Pic/Regioni_PCA_loadings.pdf, id=294, 418.56375pt x 478.78876pt>
 File: Pic/Regioni_PCA_loadings.pdf Graphic file (type pdf)
 <use Pic/Regioni_PCA_loadings.pdf>
-Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 181.
+Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 189.
 (pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
-<Pic/Regions_FULL_PCA.pdf, id=286, 418.56375pt x 478.78876pt>
+<Pic/Regions_FULL_PCA.pdf, id=295, 418.56375pt x 478.78876pt>
 File: Pic/Regions_FULL_PCA.pdf Graphic file (type pdf)
 <use Pic/Regions_FULL_PCA.pdf>
-Package pdftex.def Info: Pic/Regions_FULL_PCA.pdf  used on input line 181.
+Package pdftex.def Info: Pic/Regions_FULL_PCA.pdf  used on input line 189.
 (pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
  [9
 
  <./Pic/Regioni_PCA_loadings.pdf> <./Pic/Regions_FULL_PCA.pdf>]
-<Pic/CorrMatrix_WORLD.pdf, id=324, 418.56375pt x 478.78876pt>
+File: Pic/Regioni_PCA_loadings.pdf Graphic file (type pdf)
+<use Pic/Regioni_PCA_loadings.pdf>
+Package pdftex.def Info: Pic/Regioni_PCA_loadings.pdf  used on input line 211.
+(pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
+ [10
+
+]
+<Pic/CorrMatrix_WORLD.pdf, id=361, 418.56375pt x 478.78876pt>
 File: Pic/CorrMatrix_WORLD.pdf Graphic file (type pdf)
 <use Pic/CorrMatrix_WORLD.pdf>
-Package pdftex.def Info: Pic/CorrMatrix_WORLD.pdf  used on input line 197.
+Package pdftex.def Info: Pic/CorrMatrix_WORLD.pdf  used on input line 227.
 (pdftex.def)             Requested size: 205.37926pt x 234.93pt.
-<Pic/Variances-PCA_WORLD.pdf, id=325, 418.56375pt x 478.78876pt>
+<Pic/Variances-PCA_WORLD.pdf, id=362, 418.56375pt x 478.78876pt>
 File: Pic/Variances-PCA_WORLD.pdf Graphic file (type pdf)
 <use Pic/Variances-PCA_WORLD.pdf>
-Package pdftex.def Info: Pic/Variances-PCA_WORLD.pdf  used on input line 197.
+Package pdftex.def Info: Pic/Variances-PCA_WORLD.pdf  used on input line 227.
 (pdftex.def)             Requested size: 102.68962pt x 117.46133pt.
 
-Overfull \vbox (13.8594pt too high) detected at line 197
+Overfull \vbox (14.13022pt too high) detected at line 227
  []
 
-[10
+[11
 
  <./Pic/CorrMatrix_WORLD.pdf> <./Pic/Variances-PCA_WORLD.pdf>]
-<Pic/PCA-Loadings_WORLD.pdf, id=362, 418.56375pt x 478.78876pt>
+<Pic/PCA-Loadings_WORLD.pdf, id=400, 418.56375pt x 478.78876pt>
 File: Pic/PCA-Loadings_WORLD.pdf Graphic file (type pdf)
 <use Pic/PCA-Loadings_WORLD.pdf>
-Package pdftex.def Info: Pic/PCA-Loadings_WORLD.pdf  used on input line 212.
+Package pdftex.def Info: Pic/PCA-Loadings_WORLD.pdf  used on input line 242.
 (pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
-<Pic/World_FULLPCA.pdf, id=363, 418.56375pt x 478.78876pt>
+<Pic/World_FULLPCA.pdf, id=401, 418.56375pt x 478.78876pt>
 File: Pic/World_FULLPCA.pdf Graphic file (type pdf)
 <use Pic/World_FULLPCA.pdf>
-Package pdftex.def Info: Pic/World_FULLPCA.pdf  used on input line 212.
+Package pdftex.def Info: Pic/World_FULLPCA.pdf  used on input line 242.
 (pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
- [11
+ [12
 
  <./Pic/PCA-Loadings_WORLD.pdf> <./Pic/World_FULLPCA.pdf>]
-\tf@nav=\write6
-\openout6 = `Presentation.nav'.
+File: Pic/PCA-Loadings_WORLD.pdf Graphic file (type pdf)
+<use Pic/PCA-Loadings_WORLD.pdf>
+Package pdftex.def Info: Pic/PCA-Loadings_WORLD.pdf  used on input line 262.
+(pdftex.def)             Requested size: 171.14764pt x 195.77133pt.
+ [13
 
-\tf@toc=\write7
-\openout7 = `Presentation.toc'.
+] [14
 
-\tf@snm=\write8
-\openout8 = `Presentation.snm'.
+ <C:/Program Files/MiKTeX 2.9/tex/latex/beamer/beamericonarticle.pdf>]
+\tf@nav=\write7
+\openout7 = `Presentation.nav'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
+\tf@toc=\write8
+\openout8 = `Presentation.toc'.
+
+\tf@snm=\write9
+\openout9 = `Presentation.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 273.
  (Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 220.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 220.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 273.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 273.
 Package rerunfilecheck Info: File `Presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 83019B640A3F0E8C09E205C90D9F24AE;79.
+(rerunfilecheck)             Checksum: 63FBEC7DC2E867D600B504552952F9F5;124.
+Package logreq Info: Writing requests to 'Presentation.run.xml'.
+\openout1 = `Presentation.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 18159 strings out of 481212
- 350078 string characters out of 2913848
- 605207 words of memory out of 3000000
- 33254 multiletter control sequences out of 15000+200000
- 541542 words of font info for 53 fonts, out of 3000000 for 9000
+ 25585 strings out of 481212
+ 494182 string characters out of 2913848
+ 963520 words of memory out of 3000000
+ 40590 multiletter control sequences out of 15000+200000
+ 542654 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,15n,67p,781b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,15n,67p,784b,1618s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/symbols/msam10.pfb>
-Output written on Presentation.pdf (11 pages, 227839 bytes).
+s/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/symbols/msam10.pfb>
+Output written on Presentation.pdf (14 pages, 265573 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 535 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
