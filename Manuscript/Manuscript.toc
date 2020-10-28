@@ -12,3 +12,4 @@
 \contentsline {subsection}{\numberline {4.3}{Countries}}{18}{subsection.4.3}%
 \contentsline {section}{\numberline {5}{Conclusions}}{23}{section.5}%
 \contentsline {section}{\numberline {6}{R code}}{23}{section.6}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
