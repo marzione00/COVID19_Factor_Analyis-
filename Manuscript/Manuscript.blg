@@ -5,36 +5,37 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 17 items.
 Database file #1: bibliography.bib
-You've used 25 entries,
+Warning--empty journal in brockmann2017global
+You've used 26 entries,
             1791 wiz_defined-function locations,
-            576 strings with 8081 characters,
-and the built_in function-call counts, 4665 in all, are:
-= -- 345
-> -- 278
+            580 strings with 8192 characters,
+and the built_in function-call counts, 4793 in all, are:
+= -- 355
+> -- 282
 < -- 2
-+ -- 105
-- -- 80
-* -- 274
-:= -- 770
-add.period$ -- 63
-call.type$ -- 25
-change.case$ -- 11
++ -- 107
+- -- 81
+* -- 277
+:= -- 793
+add.period$ -- 66
+call.type$ -- 26
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 25
-duplicate$ -- 184
-empty$ -- 495
-format.name$ -- 80
-if$ -- 1029
+cite$ -- 27
+duplicate$ -- 192
+empty$ -- 509
+format.name$ -- 81
+if$ -- 1056
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 16
-newline$ -- 116
-num.names$ -- 25
-pop$ -- 98
+int.to.str$ -- 26
+missing$ -- 17
+newline$ -- 121
+num.names$ -- 26
+pop$ -- 103
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 113
+skip$ -- 116
 stack$ -- 0
 substring$ -- 176
 swap$ -- 31
@@ -42,7 +43,8 @@ text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 40
-width$ -- 27
-write$ -- 229
+warning$ -- 1
+while$ -- 41
+width$ -- 28
+write$ -- 238
+(There was 1 warning)
