@@ -37,8 +37,6 @@ corrplot(cor(Dati_Covid_reg[,2:11]))
 palette = colorRampPalette(c("green", "blue", "red")) (20)
 heatmap(x = cor(Dati_Covid_reg[,2:11]), col = palette, symm = TRUE, margins = c(10, 10),main = 'Regions', dist(Dati_Covid_reg[,2:11],method = 'euclidean'))
 dend.dat<-dist(Dati_Covid_reg[,2:11] )
-ciccio<-as.ggdend(as.dendrogram(hclust(dend.dat,method= "average")))
-ggplot(ciccio,horiz = TRUE)
 fviz_dend(hclust(dend.dat,method= "average"),k = 10,palette="npg", repel=TRUE,color_labels_by_k = TRUE,cex = 0.5) +theme(plot.title = element_text(hjust = 0.5))
 ntb(as.dendrogram(hclust(dend.dat,method= "average")))
 
